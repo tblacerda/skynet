@@ -1,0 +1,25 @@
+desktop.ini
+settings.ini
+Sites_users.log
+telnet_commands.log
+results.log
+__VERSOES/POCusers.py
+__VERSOES/SkynetRev1_1.py
+__VERSOES/SkynetRev1_2.py
+__VERSOES/SkynetRev1_3.py
+__VERSOES/SkynetRev1_4.py
+reports/050325_17.xlsx
+reports/060325_17.xlsx
+reports/090325_17.xlsx
+reports/CE05CW.xlsx
+reports/JPALJ1.xlsx
+reports/JPMIJ4.xlsx
+reports/OLSGJ0.xlsx
+reports/resultados.txt
+reports/SCRIPT PARA ZERAR CASTELAO.txt
+emails/*
+reports/*
+__VERSOES/*
+skynet/*.ini
+*.ini
+__pycache__/*
