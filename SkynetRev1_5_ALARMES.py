@@ -10,6 +10,8 @@ import functools
 import numpy as np
 from typing import List, Dict
 
+import decouple
+decouple.__version__
 
 TeclaEnter = "\r\n"
 LOG_FILE = "telnet_commands.log"
@@ -322,7 +324,6 @@ if __name__ == "__main__":
     Mae.connect()
     Sites = Mae.get_ne_list()
     Sites = {key: value for key, value in Sites.items() if value['type'].startswith("BTS")}
-#    Sites = dict(list(Sites.items())[:5])
 
     for site in Sites: 
         print(f"Site {site} is of type BTS.")
