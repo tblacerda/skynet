@@ -20,8 +20,7 @@ MAEHOSTNAME = config('MAEHOSTNAME')
 MAEPORT = config('MAEPORT')
 LOGIN = config('LOGIN')
 PASSWORD = config('PASSWORD')
-ZAPNUMBER = config('ZAPNUMBER')
-MINUSER_FACTOR = 4 # Minimum number of users per cell MAXUSERS / MINUSER_FACTOR
+
 MAXUSERS = {
     "1800_15": 150, 
     "2600_20": 250, # entre 200 e 800
@@ -31,13 +30,15 @@ MAXUSERS = {
 VELOCIDADE = 20 # segundos. Tempo de espera entre comandos
 CONFIDENCE = 0.95
 TRIALS = 30
-TILT_RANGE = (-15,15)
+TILT_RANGE = (0,15)
 AZIMUTH_RANGE = (-30,30)
-RS_RANGE = (25, 95)
+RS_RANGE_2600 = (45, 95)
+RS_RANGE_18002100 = (45, 130)
 RS_STEP = 10
 REPEAT = 1 # quantas x repete a probe de usuarios e pega o maior valor
-DURATION_HOURS = 10
-SITES = [ 'SR-CE05CW']
+DURATION_HOURS = 36
+SITES  = ['SR-CGLBJ0','SR-PB01CW']
+
 
 
 # Decorator to log Telnet commands
@@ -404,7 +405,11 @@ def is_2600_20MHz(cell_name):
                        "26-3C", 
                        "26-4A",
                        "26-4B",
-                       "26-4C"]
+                       "26-4C",
+                       "26-1D",
+                       "26-2D",
+                       "26-3D",
+                       "26-4D"]
     return any(cell_name.endswith(ending) for ending in special_endings)
 
 def is_2600_10MHz(cell_name):
@@ -436,7 +441,11 @@ def is_1800_15MHz(cell_name):
                        "18-3C", 
                        "18-4A",
                        "18-4B",
-                       "18-4C"]
+                       "18-4C",
+                       "18-1D",
+                       "18-2D",
+                       "18-3D",
+                       "18-4D"]
     return any(cell_name.endswith(ending) for ending in special_endings)
 
 def is_2100_10MHz(cell_name):
@@ -452,7 +461,11 @@ def is_2100_10MHz(cell_name):
                        "21-3C", 
                        "21-4A",
                        "21-4B",
-                       "21-4C"]
+                       "21-4C",
+                       "21-1D",
+                       "21-2D",
+                       "21-3D",
+                       "21-4D"]
     return any(cell_name.endswith(ending) for ending in special_endings)
 
 def MaxUsers(cell_name):
@@ -675,6 +688,11 @@ def AjusteDePotencia(sentido, localcellid, cell):
         #print(f"Reference signal power(0.1dBm): {reference_signal_power}")
         return int(reference_signal_power)
 
+    if is_1800_15MHz(cell) or is_2100_10MHz(cell):
+        RS_RANGE = RS_RANGE_18002100
+    else:
+        RS_RANGE = RS_RANGE_2600
+
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     if sentido == 'reduzir':
         # MOD PDSCHCFG:LOCALCELLID={localcellid},REFERENCESIGNALPWR={RsNovo};
@@ -690,11 +708,11 @@ def AjusteDePotencia(sentido, localcellid, cell):
         # MOD PDSCHCFG:LOCALCELLID={localcellid},REFERENCESIGNALPWR={RsNovo};
         RsAtual = ParserRsSignal(Mae.send_command(f"LST PDSCHCFG:LOCALCELLID={localcellid};"))
         if RsAtual + RS_STEP <= RS_RANGE[1]:
-            RsNovo = RsAtual + RS_STEP
+            RsNovo = RsAtual + int(RS_STEP/2)
             Mae.send_command(f"MOD PDSCHCFG:LOCALCELLID={localcellid},REFERENCESIGNALPWR={RsNovo};")
             log_entry = f"[{timestamp}] {cell} tem menos que {MaxUsers(cell)} usuarios. RSignal ajustado = {RsNovo} dBm\n"
         else:
-            log_entry = f"[{timestamp}] {cell} tem menos que {MaxUsers(cell)} usuarios. RSignal já no máximo = {RS_RANGE[1]} dBm\n"
+            log_entry = f"[{timestamp}] {cell} tem menos que {MaxUsers(cell)} usuarios. RSignal ja no maximo = {RS_RANGE[1]} dBm\n"
     else:
         log_entry = f"[{timestamp}] ERRO NO AJUSTE DE RS\n"
 
@@ -737,19 +755,23 @@ if __name__ == "__main__":
             Mae.select_ne(site)
             Mae.get_network_status()
             cells = Mae.df_global['Cell Name'].unique()
+            if site == "SR-CGLBJ0":
+                cells = [
+                "4G-CGLBJ0-21-1D",
+                "4G-CGLBJ0-21-2D",
+                "4G-CGLBJ0-21-3D",
+                "4G-CGLBJ0-21-4D",
+                "4C-CGLBJ0-26-1D",
+                "4C-CGLBJ0-26-2D",
+                "4C-CGLBJ0-26-3D",
+                "4C-CGLBJ0-26-4D",
+                "4G-CGLBJ0-18-1D",
+                "4G-CGLBJ0-18-2D",
+                "4G-CGLBJ0-18-3D",
+                "4G-CGLBJ0-18-4D"
+                ]
             try:
                 for cell in (cells):
-                    #### CONTROLE DE POTÊNCIA ####
-                    for cell2 in (cells): # controle de potência
-                        local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell2, 'Local Cell ID'].values[0]
-                        usuarios = Mae.df_global[Mae.df_global['Cell Name'] == cell2]['Cell Total Counter'].values[0]
-                        if usuarios <= MaxUsers(cell2):
-                            AjusteDePotencia('aumentar', local_cell_id, cell2)
-                        elif usuarios > MaxUsers(cell2):
-                            AjusteDePotencia('reduzir', local_cell_id, cell2)
-                        else:
-                            continue
-                    
                     #### FIM CONTROLE DE POTENCIA ####        
 
                     if primary_cell(cell):
@@ -812,13 +834,13 @@ if __name__ == "__main__":
                                 continue
                             
                         else:
-                            AjusteDePotencia('reduzir', local_cell_id)
+                            AjusteDePotencia('reduzir', local_cell_id, cell)
                                  
                     else:
                         continue
                     Mae.get_network_status()
                     df_report = pd.concat([df_report, Mae.df_global], ignore_index=True)
-                    df_report.to_excel(r'reports/CE05CW.xlsx', index=False)
+                    df_report.to_excel(r'reports/CampinaGrande.xlsx', index=False)
             except Exception as e:
                 print(f"Erro: {str(e)}")
                 continue
