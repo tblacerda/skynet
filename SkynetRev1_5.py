@@ -27,7 +27,7 @@ MAXUSERS = {
     "2600_10": 50,
     "2100_10": 50,
 }
-VELOCIDADE = 20 # segundos. Tempo de espera entre comandos
+VELOCIDADE =5 # segundos. Tempo de espera entre comandos
 CONFIDENCE = 0.95
 TRIALS = 30
 TILT_RANGE = (0,15)
@@ -36,9 +36,8 @@ RS_RANGE_2600 = (45, 95)
 RS_RANGE_18002100 = (45, 130)
 RS_STEP = 10
 REPEAT = 1 # quantas x repete a probe de usuarios e pega o maior valor
-DURATION_HOURS = 36
-SITES  = ['SR-CGLBJ0','SR-PB01CW']
-
+DURATION_HOURS = 1
+SITES  = ['SR-CGLBJ0']
 
 
 # Decorator to log Telnet commands
@@ -773,7 +772,13 @@ if __name__ == "__main__":
             try:
                 for cell in (cells):
                     #### FIM CONTROLE DE POTENCIA ####        
+                    for cell1 in (cells):
+                        local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell1, 'Local Cell ID'].values[0]
+                        if usuarios < MaxUsers(cell1):
+                            AjusteDePotencia('reduzir', local_cell_id, cell1)
 
+
+                        
                     if primary_cell(cell):
                         local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell, 'Local Cell ID'].values[0]
                         sector_split_group_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell, 'Sector Split Group ID'].values[0]                        
