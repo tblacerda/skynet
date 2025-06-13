@@ -27,7 +27,7 @@ MAXUSERS = {
     "2600_10": 50,
     "2100_10": 50,
 }
-VELOCIDADE =5 # segundos. Tempo de espera entre comandos
+VELOCIDADE = 20 # segundos. Tempo de espera entre comandos
 CONFIDENCE = 0.95
 TRIALS = 30
 TILT_RANGE = (0,15)
@@ -744,112 +744,117 @@ if __name__ == "__main__":
     Mae = NBI()
     Mae.connect()
 
-    # Calcular horários de início e fim
-    start_time = datetime.datetime.now()
-    end_time = start_time + datetime.timedelta(hours=DURATION_HOURS)
-    # Exibir horários
-    print(f"Hora de início: {start_time.strftime('%Y-%m-%d %H:%M:%S')} | Hora prevista para o fim: {end_time.strftime('%Y-%m-%d %H:%M:%S')}")
-    while datetime.datetime.now() < end_time:
-        for site in SITES:
-            Mae.select_ne(site)
-            Mae.get_network_status()
-            cells = Mae.df_global['Cell Name'].unique()
-            if site == "SR-CGLBJ0":
-                cells = [
-                "4G-CGLBJ0-21-1D",
-                "4G-CGLBJ0-21-2D",
-                "4G-CGLBJ0-21-3D",
-                "4G-CGLBJ0-21-4D",
-                "4C-CGLBJ0-26-1D",
-                "4C-CGLBJ0-26-2D",
-                "4C-CGLBJ0-26-3D",
-                "4C-CGLBJ0-26-4D",
-                "4G-CGLBJ0-18-1D",
-                "4G-CGLBJ0-18-2D",
-                "4G-CGLBJ0-18-3D",
-                "4G-CGLBJ0-18-4D"
-                ]
-            try:
-                for cell in (cells):
-                    #### FIM CONTROLE DE POTENCIA ####        
-                    for cell1 in (cells):
-                        local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell1, 'Local Cell ID'].values[0]
-                        if usuarios < MaxUsers(cell1):
-                            AjusteDePotencia('reduzir', local_cell_id, cell1)
+    while True:
+        now = datetime.datetime.now()
+        # Define the allowed interval: between 17:00 and 05:00 (overnight)
+        if now.hour >= 17 or now.hour < 5:
+            for site in SITES:
+                Mae.select_ne(site)
+                Mae.get_network_status()
+                cells = Mae.df_global['Cell Name'].unique()
+                if site == "SR-CGLBJ0":
+                    cells = [
+                    "4G-CGLBJ0-21-1D",
+                    "4G-CGLBJ0-21-2D",
+                    "4G-CGLBJ0-21-3D",
+                    "4G-CGLBJ0-21-4D",
+                    "4C-CGLBJ0-26-1D",
+                    "4C-CGLBJ0-26-2D",
+                    "4C-CGLBJ0-26-3D",
+                    "4C-CGLBJ0-26-4D",
+                    "4G-CGLBJ0-18-1D",
+                    "4G-CGLBJ0-18-2D",
+                    "4G-CGLBJ0-18-3D",
+                    "4G-CGLBJ0-18-4D"
+                    ]
+                try:
+                    for cell in (cells):
+                        #### FIM CONTROLE DE POTENCIA ####        
+                        for cell1 in (cells):
+                            local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell1, 'Local Cell ID'].values[0]
+                            if usuarios < MaxUsers(cell1):
+                                AjusteDePotencia('reduzir', local_cell_id, cell1)
 
 
-                        
-                    if primary_cell(cell):
-                        local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell, 'Local Cell ID'].values[0]
-                        sector_split_group_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell, 'Sector Split Group ID'].values[0]                        
-                        tilt_atual = Mae.df_global[Mae.df_global['Cell Name'] == cell]['Cell Beam Tilt(degree)'].values[0]
-                        azimute_atual = Mae.df_global[Mae.df_global['Cell Name'] == cell]['Cell Beam Azimuth Offset(degree)'].values[0]
-                        usuarios = Mae.df_global[Mae.df_global['Cell Name'] == cell]['Cell Total Counter'].values[0]
-                        if usuarios < MaxUsers(cell):
-                            AjusteDePotencia('aumentar', local_cell_id, cell)
-                            best_pos, best_val = maximize_users(Mae,
-                                                                FunctionUsers,
-                                                                cell,
-                                                                local_cell_id,
-                                                                sector_split_group_id,
-                                                                tilt_atual,
-                                                                azimute_atual
-                                                                )
-                            
-                            AjustForBestPos(Mae,
-                                            cell,
-                                            best_pos[0],
-                                            best_pos[1],
-                                            best_val,
-                                            local_cell_id,
-                                            sector_split_group_id)
-                            
-                            try:  
-                                SecondaryCell = secondary_cell(cell)
-                                usuarios = Mae.df_global[Mae.df_global['Cell Name'] == SecondaryCell]['Cell Total Counter'].values[0]
-                                local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == SecondaryCell, 'Local Cell ID'].values[0]
-                                if usuarios < MaxUsers(SecondaryCell):
-                                    AjusteDePotencia('aumentar', local_cell_id, cell)
-                                elif usuarios > MaxUsers(SecondaryCell):
-                                    AjusteDePotencia('reduzir', local_cell_id, cell)
-                                else:
-                                    continue
 
-                                try:
+                        if primary_cell(cell):
+                            local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell, 'Local Cell ID'].values[0]
+                            sector_split_group_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell, 'Sector Split Group ID'].values[0]                        
+                            tilt_atual = Mae.df_global[Mae.df_global['Cell Name'] == cell]['Cell Beam Tilt(degree)'].values[0]
+                            azimute_atual = Mae.df_global[Mae.df_global['Cell Name'] == cell]['Cell Beam Azimuth Offset(degree)'].values[0]
+                            usuarios = Mae.df_global[Mae.df_global['Cell Name'] == cell]['Cell Total Counter'].values[0]
+                            if usuarios < MaxUsers(cell):
+                                AjusteDePotencia('aumentar', local_cell_id, cell)
+                                best_pos, best_val = maximize_users(Mae,
+                                                                    FunctionUsers,
+                                                                    cell,
+                                                                    local_cell_id,
+                                                                    sector_split_group_id,
+                                                                    tilt_atual,
+                                                                    azimute_atual
+                                                                    )
+                                
+                                AjustForBestPos(Mae,
+                                                cell,
+                                                best_pos[0],
+                                                best_pos[1],
+                                                best_val,
+                                                local_cell_id,
+                                                sector_split_group_id)
+                                
+                                try:  
+                                    SecondaryCell = secondary_cell(cell)
+                                    usuarios = Mae.df_global[Mae.df_global['Cell Name'] == SecondaryCell]['Cell Total Counter'].values[0]
                                     local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == SecondaryCell, 'Local Cell ID'].values[0]
-                                    sector_split_group_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == SecondaryCell, 'Sector Split Group ID'].values[0]
+                                    if usuarios < MaxUsers(SecondaryCell):
+                                        AjusteDePotencia('aumentar', local_cell_id, cell)
+                                    elif usuarios > MaxUsers(SecondaryCell):
+                                        AjusteDePotencia('reduzir', local_cell_id, cell)
+                                    else:
+                                        continue
 
-                                except:
-                                    if SecondaryCell.startswith('4C-'):
-                                        SecondaryCell = '4G-' + SecondaryCell[3:]
+                                    try:
                                         local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == SecondaryCell, 'Local Cell ID'].values[0]
                                         sector_split_group_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == SecondaryCell, 'Sector Split Group ID'].values[0]
-                                    else:
-                                        pass
-                                    
-                                AjustForBestPos(Mae,
-                                            SecondaryCell,
-                                            best_pos[0],
-                                            best_pos[1],
-                                            best_val,
-                                            local_cell_id,
-                                            sector_split_group_id)
-                            except Exception as e:
-                                print(f"Erro: {str(e)}")
-                                continue
-                            
+
+                                    except:
+                                        if SecondaryCell.startswith('4C-'):
+                                            SecondaryCell = '4G-' + SecondaryCell[3:]
+                                            local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == SecondaryCell, 'Local Cell ID'].values[0]
+                                            sector_split_group_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == SecondaryCell, 'Sector Split Group ID'].values[0]
+                                        else:
+                                            pass
+                                        
+                                    AjustForBestPos(Mae,
+                                                SecondaryCell,
+                                                best_pos[0],
+                                                best_pos[1],
+                                                best_val,
+                                                local_cell_id,
+                                                sector_split_group_id)
+                                except Exception as e:
+                                    print(f"Erro: {str(e)}")
+                                    continue
+                                
+                            else:
+                                AjusteDePotencia('reduzir', local_cell_id, cell)
+                                        
                         else:
-                            AjusteDePotencia('reduzir', local_cell_id, cell)
-                                 
-                    else:
-                        continue
-                    Mae.get_network_status()
-                    df_report = pd.concat([df_report, Mae.df_global], ignore_index=True)
-                    df_report.to_excel(r'reports/CampinaGrande.xlsx', index=False)
-            except Exception as e:
-                print(f"Erro: {str(e)}")
-                continue
-            Mae.reset_global_data()        
+                            continue
+                        Mae.get_network_status()
+                        df_report = pd.concat([df_report, Mae.df_global], ignore_index=True)
+                        df_report.to_excel(r'reports/CampinaGrande.xlsx', index=False)
+                except Exception as e:
+                    print(f"Erro: {str(e)}")
+                    continue
+                Mae.reset_global_data()        
+            break  # Exit the while loop after running the FOR loop
+        else:
+            print("Current time is outside the allowed interval (17:00-05:00). Waiting 15 minutes...")
+            timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            with open(LOG_RESULTS, "a") as f:
+                f.write(f"[{timestamp}] Current time is outside the allowed interval (17:00-05:00). Waiting 15 minutes...\n")
+            time.sleep(15 * 60)
 
     Mae.disconnect()
 
