@@ -36,8 +36,7 @@ RS_RANGE_2600 = (45, 95)
 RS_RANGE_18002100 = (45, 130)
 RS_STEP = 10
 REPEAT = 1 # quantas x repete a probe de usuarios e pega o maior valor
-DURATION_HOURS = 1
-SITES  = ['SR-CGLBJ0']
+SITES  = ['SR-CGLBJ0', 'SR-PB01CW']
 
 
 # Decorator to log Telnet commands
@@ -747,37 +746,43 @@ if __name__ == "__main__":
     while True:
         now = datetime.datetime.now()
         # Define the allowed interval: between 17:00 and 05:00 (overnight)
-        if now.hour >= 17 or now.hour < 5:
+        if now.hour >= 13 or now.hour < 23:
             for site in SITES:
                 Mae.select_ne(site)
                 Mae.get_network_status()
-                cells = Mae.df_global['Cell Name'].unique()
-                if site == "SR-CGLBJ0":
+                cells = set(Mae.df_global['Cell Name'])
+                if site == 'SR-CGLBJ0':
                     cells = [
-                    "4G-CGLBJ0-21-1D",
-                    "4G-CGLBJ0-21-2D",
-                    "4G-CGLBJ0-21-3D",
-                    "4G-CGLBJ0-21-4D",
-                    "4C-CGLBJ0-26-1D",
-                    "4C-CGLBJ0-26-2D",
-                    "4C-CGLBJ0-26-3D",
-                    "4C-CGLBJ0-26-4D",
-                    "4G-CGLBJ0-18-1D",
-                    "4G-CGLBJ0-18-2D",
-                    "4G-CGLBJ0-18-3D",
-                    "4G-CGLBJ0-18-4D"
+                        "4C-CGLBJ0-26-1D",
+                        "4C-CGLBJ0-26-2D",
+                        "4C-CGLBJ0-26-3D",
+                        "4C-CGLBJ0-26-4D",
+                        "4C-CGLBJ0-26-1W",
+                        "4C-CGLBJ0-26-2W",
+                        "4C-CGLBJ0-26-3W",
+                        "4C-CGLBJ0-26-4W",
+                        "4G-CGLBJ0-18-1D",
+                        "4G-CGLBJ0-18-2D",
+                        "4G-CGLBJ0-18-3D",
+                        "4G-CGLBJ0-18-4D",
+                        "4G-CGLBJ0-21-1D",
+                        "4G-CGLBJ0-21-2D",
+                        "4G-CGLBJ0-21-3D",
+                        "4G-CGLBJ0-21-4D"
                     ]
+
                 try:
                     for cell in (cells):
-                        #### FIM CONTROLE DE POTENCIA ####        
-                        for cell1 in (cells):
-                            local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell1, 'Local Cell ID'].values[0]
-                            if usuarios < MaxUsers(cell1):
-                                AjusteDePotencia('reduzir', local_cell_id, cell1)
-
-
-
                         if primary_cell(cell):
+                            #### FIM CONTROLE DE POTENCIA ####        
+                            for cell1 in (cells):
+                                local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell1, 'Local Cell ID'].values[0]
+                                usuarios = Mae.df_global[Mae.df_global['Cell Name'] == cell1]['Cell Total Counter'].values[0]
+                                if usuarios < 0.8 * MaxUsers(cell1):
+                                    AjusteDePotencia('aumentar', local_cell_id, cell1)
+                                elif usuarios > 1.1 * MaxUsers(cell1):
+                                    AjusteDePotencia('reduzir', local_cell_id, cell1)
+                            #### FIM CONTROLE DE POTENCIA ####
                             local_cell_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell, 'Local Cell ID'].values[0]
                             sector_split_group_id = Mae.df_global.loc[Mae.df_global['Cell Name'] == cell, 'Sector Split Group ID'].values[0]                        
                             tilt_atual = Mae.df_global[Mae.df_global['Cell Name'] == cell]['Cell Beam Tilt(degree)'].values[0]
@@ -843,7 +848,7 @@ if __name__ == "__main__":
                             continue
                         Mae.get_network_status()
                         df_report = pd.concat([df_report, Mae.df_global], ignore_index=True)
-                        df_report.to_excel(r'reports/CampinaGrande.xlsx', index=False)
+                        df_report.to_excel(r'Report.xlsx', index=False)
                 except Exception as e:
                     print(f"Erro: {str(e)}")
                     continue
@@ -857,6 +862,5 @@ if __name__ == "__main__":
             time.sleep(15 * 60)
 
     Mae.disconnect()
-
 
 

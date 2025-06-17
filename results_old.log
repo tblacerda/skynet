@@ -1,0 +1,1141 @@
+[2025-03-13 21:46:53]  Cell: 4C-JPALJ1-26-1A, Iterations: 3, Prob_Improvement: 0.0482
+[2025-03-13 21:47:13]  Cell: 4C-JPALJ1-26-2A, Iterations: 3, Prob_Improvement: 0.3052
+[2025-03-13 21:47:35]  Cell: 4C-JPALJ1-26-3A, Iterations: 3, Prob_Improvement: 0.3140
+[2025-03-13 21:47:51]  Cell: 4C-JPALJ1-26-4A, Iterations: 3, Prob_Improvement: 0.0573
+[2025-03-13 21:48:07]  Cell: 4C-JPALJ1-26-1B, Iterations: 3, Prob_Improvement: 0.3341
+[2025-03-14 11:24:00]  Cell: 4C-JPMIJ4-26-1A, Tilt: 5.5, Azimuth: -2,  Iterations: 31, Confidence: 0.9502
+[2025-03-14 14:10:54] Cell: 4C-JPMIJ4-26-1A; Tilt: 11.0; Azimuth: 11.0;  Iterations: 1; Confidence: [0.5]
+[2025-03-14 14:10:58] Cell: 4C-JPMIJ4-26-1A; Tilt: 6.0; Azimuth: 1.0;  Iterations: 2; Confidence: [0.76024994]
+[2025-03-14 14:11:03] Cell: 4C-JPMIJ4-26-1A; Tilt: 4.0; Azimuth: 6.0;  Iterations: 3; Confidence: [0.82207801]
+[2025-03-14 14:11:07] Cell: 4C-JPMIJ4-26-1A; Tilt: 8.0; Azimuth: -4.0;  Iterations: 4; Confidence: [0.8742701]
+[2025-03-14 14:11:11] Cell: 4C-JPMIJ4-26-1A; Tilt: 12.0; Azimuth: -8.0;  Iterations: 5; Confidence: [0.90782452]
+[2025-03-14 14:11:15] Cell: 4C-JPMIJ4-26-1A; Tilt: 5.0; Azimuth: -14.0;  Iterations: 6; Confidence: [0.91290725]
+[2025-03-14 14:11:19] Cell: 4C-JPMIJ4-26-1A; Tilt: 13.0; Azimuth: 28.0;  Iterations: 7; Confidence: [0.92694977]
+[2025-03-14 14:11:24] Cell: 4C-JPMIJ4-26-1A; Tilt: 12.0; Azimuth: 0.0;  Iterations: 8; Confidence: [0.9349528]
+[2025-03-14 14:11:28] Cell: 4C-JPMIJ4-26-1A; Tilt: 4.0; Azimuth: 17.0;  Iterations: 9; Confidence: [0.94555771]
+[2025-03-14 14:11:32] Cell: 4C-JPMIJ4-26-1A; Tilt: 15.0; Azimuth: -12.0;  Iterations: 10; Confidence: [0.91562903]
+[2025-03-22 12:04:26] Cell: 4G-CE05CW-26-1A; Tilt: -13.0; Azimuth: -29;  Usuarios: 3; Iterations: 1; Confidence: [0.67346412]
+[2025-03-22 12:04:42] Cell: 4G-CE05CW-26-1A; Tilt: 13.0; Azimuth: 24;  Usuarios: 1; Iterations: 2; Confidence: [0.9213504]
+[2025-03-22 12:04:58] Cell: 4G-CE05CW-26-1A; Tilt: -13.5; Azimuth: -30;  Usuarios: 1; Iterations: 3; Confidence: [0.69072677]
+[2025-03-22 12:05:15] Cell: 4G-CE05CW-26-1A; Tilt: 5.0; Azimuth: 0;  Usuarios: 1; Iterations: 4; Confidence: [0.90878878]
+[2025-03-22 12:05:31] Cell: 4G-CE05CW-26-1A; Tilt: -2.0; Azimuth: 9;  Usuarios: 0; Iterations: 5; Confidence: [0.93460147]
+[2025-03-22 12:05:47] Cell: 4G-CE05CW-26-1A; Tilt: 11.0; Azimuth: -5;  Usuarios: 0; Iterations: 6; Confidence: [0.94307685]
+[2025-03-22 12:05:47]  Melhor posicao ; Cell: 4G-CE05CW-26-1A; Tilt: -13.0; Azimuth: -30;  Iterations: 7; Confidence: 0.9541
+[2025-03-22 12:05:47] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal ajustado = 35
+[2025-03-22 12:06:37] Cell: 4G-CE05CW-26-2A; Tilt: -5.5; Azimuth: 29;  Usuarios: 1; Iterations: 1; Confidence: [0.67346299]
+[2025-03-22 12:06:54] Cell: 4G-CE05CW-26-2A; Tilt: -8.0; Azimuth: -28;  Usuarios: 0; Iterations: 2; Confidence: [0.88966432]
+[2025-03-22 12:07:10] Cell: 4G-CE05CW-26-2A; Tilt: -4.7; Azimuth: 30;  Usuarios: 1; Iterations: 3; Confidence: [0.68980382]
+[2025-03-22 12:07:26] Cell: 4G-CE05CW-26-2A; Tilt: -8.0; Azimuth: 28;  Usuarios: 1; Iterations: 4; Confidence: [0.94559528]
+[2025-03-22 12:07:28]  Melhor posicao ; Cell: 4G-CE05CW-26-2A; Tilt: -5.0; Azimuth: 30;  Iterations: 5; Confidence: 0.9552
+[2025-03-22 14:02:50] 4G-CE05CW-26-1B tem menos que 250 usuarios. ERRO NO AJUSTE DE RS
+[2025-03-22 14:02:52] 4G-CE05CW-26-1B tem menos que 250 usuarios. ERRO NO AJUSTE DE RS
+[2025-03-22 14:02:54] 4G-CE05CW-26-1B tem menos que 250 usuarios. ERRO NO AJUSTE DE RS
+[2025-03-22 14:02:56] 4G-CE05CW-26-1B tem menos que 250 usuarios. ERRO NO AJUSTE DE RS
+[2025-03-22 14:02:58] 4G-CE05CW-26-1B tem menos que 250 usuarios. ERRO NO AJUSTE DE RS
+[2025-03-22 14:02:59] 4G-CE05CW-26-1B tem menos que 250 usuarios. ERRO NO AJUSTE DE RS
+[2025-03-22 14:03:02] 4G-CE05CW-26-1B tem menos que 250 usuarios. ERRO NO AJUSTE DE RS
+[2025-03-22 14:03:04] 4G-CE05CW-26-1B tem menos que 250 usuarios. ERRO NO AJUSTE DE RS
+[2025-03-22 14:07:47] 4G-CE05CW-26-1B tem menos que 250 usuarios. ERRO NO AJUSTE DE RS
+[2025-03-22 14:12:26] 4G-CE05CW-26-1B ja tem mais que 250 usuarios. RSignal ajustado = 75 dBm
+[2025-03-22 16:53:21] 4G-CE05CW-26-1A ja tem mais que 250 usuarios. RSignal ajustado = 55 dBm
+[2025-03-22 16:55:41] 4G-CE05CW-26-1A ja tem mais que 250 usuarios. RSignal ajustado = 45 dBm
+[2025-03-22 16:58:24] 4G-CE05CW-26-1A ja tem mais que 250 usuarios. RSignal ajustado = 35 dBm
+[2025-03-28 16:12:41] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal ajustado = 65 dBm
+[2025-03-28 16:16:41] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal ajustado = 75 dBm
+[2025-03-28 17:19:38] 4G-PE34CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-03-28 17:47:22] 4G-PE34CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-03-28 17:49:49] Cell: 4G-PE34CW-26-1A; Tilt: 1.5; Azimuth: -29;  Usuarios: 16; Iterations: 1; Confidence: [0.6586192]
+[2025-03-28 17:50:13] Cell: 4G-PE34CW-26-1A; Tilt: 11.3; Azimuth: -30;  Usuarios: 18; Iterations: 2; Confidence: [0.74577931]
+[2025-03-28 17:50:36] Cell: 4G-PE34CW-26-1A; Tilt: -14.4; Azimuth: -18;  Usuarios: 20; Iterations: 3; Confidence: [0.8319071]
+[2025-03-28 17:50:59] Cell: 4G-PE34CW-26-1A; Tilt: -15.0; Azimuth: -11;  Usuarios: 10; Iterations: 4; Confidence: [0.69068207]
+[2025-03-28 17:51:23] Cell: 4G-PE34CW-26-1A; Tilt: -13.6; Azimuth: -23;  Usuarios: 17; Iterations: 5; Confidence: [0.35613278]
+[2025-03-28 17:51:49] Cell: 4G-PE34CW-26-1A; Tilt: -9.9; Azimuth: -19;  Usuarios: 14; Iterations: 6; Confidence: [0.68485516]
+[2025-03-28 17:52:13] Cell: 4G-PE34CW-26-1A; Tilt: -15.0; Azimuth: -19;  Usuarios: 14; Iterations: 7; Confidence: [0.36893017]
+[2025-03-28 17:52:38] Cell: 4G-PE34CW-26-1A; Tilt: -13.6; Azimuth: -17;  Usuarios: 15; Iterations: 8; Confidence: [0.56144081]
+[2025-03-28 17:53:03] Cell: 4G-PE34CW-26-1A; Tilt: -15.0; Azimuth: -18;  Usuarios: 15; Iterations: 9; Confidence: [0.67382244]
+[2025-03-28 17:53:27] Cell: 4G-PE34CW-26-1A; Tilt: -14.0; Azimuth: -18;  Usuarios: 16; Iterations: 10; Confidence: [0.60262235]
+[2025-03-28 20:16:05] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal ajustado = 85 dBm
+[2025-03-28 20:18:36] Cell: 4G-CE05CW-26-1A; Tilt: -2.0; Azimuth: -30;  Usuarios: 0; Iterations: 1; Confidence: [0.81869201]
+[2025-03-28 20:18:36]  Melhor posicao ; Cell: 4G-CE05CW-26-1A; Tilt: -7.0; Azimuth: -30;  Iterations: 2; Confidence: 0.9922
+[2025-03-28 20:18:39] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-03-28 20:21:05] Cell: 4G-CE05CW-26-2A; Tilt: 12.0; Azimuth: -30;  Usuarios: 0; Iterations: 1; Confidence: [0.5]
+[2025-03-28 20:21:28] Cell: 4G-CE05CW-26-2A; Tilt: 15.0; Azimuth: 30;  Usuarios: 0; Iterations: 2; Confidence: [0.5]
+[2025-03-29 06:11:12] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal ajustado = 95 dBm
+[2025-03-29 06:12:06] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-03-29 06:14:32] Cell: 4G-CE05CW-26-1A; Tilt: -2.0; Azimuth: -30;  Usuarios: 0; Iterations: 1; Confidence: [0.8215519]
+[2025-03-29 06:14:32]  Melhor posicao ; Cell: 4G-CE05CW-26-1A; Tilt: -7.0; Azimuth: -30;  Iterations: 2; Confidence: 0.9928
+[2025-03-29 06:14:34] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-03-29 06:16:04] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-03-29 06:18:32] Cell: 4G-CE05CW-26-1A; Tilt: -2.0; Azimuth: -25;  Usuarios: 0; Iterations: 1; Confidence: [0.65792354]
+[2025-03-29 06:18:34]  Melhor posicao ; Cell: 4G-CE05CW-26-1A; Tilt: -7.0; Azimuth: -30;  Iterations: 2; Confidence: 0.9756
+[2025-03-29 06:18:37] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-03-29 06:21:03] Cell: 4G-CE05CW-26-2A; Tilt: 15.0; Azimuth: -30;  Usuarios: 0; Iterations: 1; Confidence: [0.5]
+[2025-03-29 06:21:24] Cell: 4G-CE05CW-26-2A; Tilt: 11.0; Azimuth: 30;  Usuarios: 0; Iterations: 2; Confidence: [0.5]
+[2025-03-29 06:21:46] Cell: 4G-CE05CW-26-2A; Tilt: 13.0; Azimuth: -30;  Usuarios: 0; Iterations: 3; Confidence: [0.5]
+[2025-03-29 06:22:08] Cell: 4G-CE05CW-26-2A; Tilt: 4.0; Azimuth: 30;  Usuarios: 0; Iterations: 4; Confidence: [0.5]
+[2025-03-29 06:47:03] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-03-29 06:49:30] Cell: 4G-CE05CW-26-1A; Tilt: -2.0; Azimuth: -30;  Usuarios: 1; Iterations: 1; Confidence: [0.8880238]
+[2025-03-29 06:49:35]  Melhor posicao ; Cell: 4G-CE05CW-26-1A; Tilt: -7.0; Azimuth: -30;  Iterations: 2; Confidence: 0.9681
+[2025-03-29 06:49:36] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-03-29 06:52:01] Cell: 4G-CE05CW-26-2A; Tilt: 14.0; Azimuth: 30;  Usuarios: 0; Iterations: 1; Confidence: [0.5]
+[2025-03-29 06:52:22] Cell: 4G-CE05CW-26-2A; Tilt: 12.0; Azimuth: -30;  Usuarios: 0; Iterations: 2; Confidence: [0.5]
+[2025-03-29 06:52:43] Cell: 4G-CE05CW-26-2A; Tilt: 13.0; Azimuth: 30;  Usuarios: 0; Iterations: 3; Confidence: [0.5]
+[2025-03-29 06:53:04] Cell: 4G-CE05CW-26-2A; Tilt: 15.0; Azimuth: -30;  Usuarios: 0; Iterations: 4; Confidence: [0.5]
+[2025-03-29 06:53:25] Cell: 4G-CE05CW-26-2A; Tilt: 0.0; Azimuth: 30;  Usuarios: 0; Iterations: 5; Confidence: [0.5]
+[2025-03-29 06:53:46] Cell: 4G-CE05CW-26-2A; Tilt: 1.0; Azimuth: -30;  Usuarios: 0; Iterations: 6; Confidence: [0.5]
+[2025-03-29 06:54:07] Cell: 4G-CE05CW-26-2A; Tilt: 15.0; Azimuth: 30;  Usuarios: 0; Iterations: 7; Confidence: [0.5]
+[2025-03-29 06:54:29] Cell: 4G-CE05CW-26-2A; Tilt: -1.0; Azimuth: -30;  Usuarios: 0; Iterations: 8; Confidence: [0.5]
+[2025-03-29 06:54:50] Cell: 4G-CE05CW-26-2A; Tilt: -1.0; Azimuth: 30;  Usuarios: 0; Iterations: 9; Confidence: [0.5]
+[2025-03-29 06:55:11] Cell: 4G-CE05CW-26-2A; Tilt: -2.0; Azimuth: -30;  Usuarios: 0; Iterations: 10; Confidence: [0.5]
+[2025-03-29 06:55:32] Cell: 4G-CE05CW-26-2A; Tilt: 12.0; Azimuth: 30;  Usuarios: 0; Iterations: 11; Confidence: [0.5]
+[2025-03-29 06:55:53] Cell: 4G-CE05CW-26-2A; Tilt: 3.0; Azimuth: -30;  Usuarios: 0; Iterations: 12; Confidence: [0.5]
+[2025-03-29 06:56:15] Cell: 4G-CE05CW-26-2A; Tilt: 4.0; Azimuth: 30;  Usuarios: 0; Iterations: 13; Confidence: [0.5]
+[2025-03-29 06:56:37] Cell: 4G-CE05CW-26-2A; Tilt: 13.0; Azimuth: -30;  Usuarios: 0; Iterations: 14; Confidence: [0.5]
+[2025-03-29 06:56:58] Cell: 4G-CE05CW-26-2A; Tilt: 15.0; Azimuth: 29;  Usuarios: 0; Iterations: 15; Confidence: [0.5]
+[2025-03-29 06:57:19] Cell: 4G-CE05CW-26-2A; Tilt: 10.0; Azimuth: 30;  Usuarios: 0; Iterations: 16; Confidence: [0.5]
+[2025-04-01 14:38:43] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:01] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:01] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:02] 4G-CE05CW-26-3A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:02] 4G-CE05CW-26-4A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:03] 4G-CE05CW-26-1I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:03] 4G-CE05CW-26-2I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:04] 4G-CE05CW-26-3I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:05] 4G-CE05CW-26-4I tem menos que 50 usuarios. RSignal ajustado = 65 dBm
+[2025-04-01 14:45:06] 4G-CE05CW-26-1B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:07] 4G-CE05CW-26-2B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:08] 4G-CE05CW-26-3B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:09] 4G-CE05CW-26-4B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:10] 4G-CE05CW-26-1J tem menos que 50 usuarios. RSignal ajustado = 85 dBm
+[2025-04-01 14:45:11] 4G-CE05CW-26-2J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:11] 4G-CE05CW-26-3J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:12] 4G-CE05CW-26-4J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:12] 4G-CE05CW-26-1C tem menos que 250 usuarios. RSignal ajustado = 95 dBm
+[2025-04-01 14:45:13] 4G-CE05CW-26-2C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:13] 4G-CE05CW-26-3C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:13] 4G-CE05CW-26-4C tem menos que 250 usuarios. RSignal ajustado = 95 dBm
+[2025-04-01 14:45:14] 4G-CE05CW-26-1K tem menos que 50 usuarios. RSignal ajustado = 75 dBm
+[2025-04-01 14:45:15] 4G-CE05CW-26-2K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:15] 4G-CE05CW-26-3K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:15] 4G-CE05CW-26-4K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:16] 4G-CE05CW-21-1A tem menos que 50 usuarios. RSignal ajustado = 35 dBm
+[2025-04-01 14:45:16] 4G-CE05CW-21-2A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:17] 4G-CE05CW-21-3A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:17] 4G-CE05CW-21-4A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:17] 4G-CE05CW-21-1B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:18] 4G-CE05CW-21-2B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:18] 4G-CE05CW-21-3B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:18] 4G-CE05CW-21-4B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:19] 4G-CE05CW-21-1C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:19] 4G-CE05CW-21-2C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:19] 4G-CE05CW-21-3C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:20] 4G-CE05CW-21-4C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:20] 4G-CE05CW-18-1A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:20] 4G-CE05CW-18-2A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:21] 4G-CE05CW-18-3A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:21] 4G-CE05CW-18-4A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:21] 4G-CE05CW-18-1B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:22] 4G-CE05CW-18-2B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:22] 4G-CE05CW-18-3B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:22] 4G-CE05CW-18-4B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:23] 4G-CE05CW-18-1C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:23] 4G-CE05CW-18-2C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:23] 4G-CE05CW-18-3C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:24] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:45:24] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:46:27] Cell: 4G-CE05CW-18-4C; Tilt: -14.0; Azimuth: 30;  Usuarios: 0; Iterations: 1; Confidence: [0.5]
+[2025-04-01 14:46:48] Cell: 4G-CE05CW-18-4C; Tilt: 9.0; Azimuth: -30;  Usuarios: 0; Iterations: 2; Confidence: [0.5]
+[2025-04-01 14:47:10] Cell: 4G-CE05CW-18-4C; Tilt: 14.0; Azimuth: 28;  Usuarios: 0; Iterations: 3; Confidence: [0.5]
+[2025-04-01 14:47:31] Cell: 4G-CE05CW-18-4C; Tilt: -15.0; Azimuth: -28;  Usuarios: 0; Iterations: 4; Confidence: [0.5]
+[2025-04-01 14:47:53] Cell: 4G-CE05CW-18-4C; Tilt: -12.0; Azimuth: 30;  Usuarios: 0; Iterations: 5; Confidence: [0.5]
+[2025-04-01 14:48:14] Cell: 4G-CE05CW-18-4C; Tilt: 14.0; Azimuth: 29;  Usuarios: 0; Iterations: 6; Confidence: [0.5]
+[2025-04-01 14:48:36] Cell: 4G-CE05CW-18-4C; Tilt: -15.0; Azimuth: -30;  Usuarios: 0; Iterations: 7; Confidence: [0.5]
+[2025-04-01 14:48:57] Cell: 4G-CE05CW-18-4C; Tilt: -12.0; Azimuth: -30;  Usuarios: 0; Iterations: 8; Confidence: [0.5]
+[2025-04-01 14:49:18] Cell: 4G-CE05CW-18-4C; Tilt: 11.0; Azimuth: 29;  Usuarios: 1; Iterations: 9; Confidence: [0.5]
+[2025-04-01 14:49:39] Cell: 4G-CE05CW-18-4C; Tilt: 10.5; Azimuth: 29;  Usuarios: 0; Iterations: 10; Confidence: [0.69296622]
+[2025-04-01 14:49:40]  Melhor posicao ; Cell: 4G-CE05CW-18-4C; Tilt: 11.0; Azimuth: 29;  Iterations: 11; Confidence: 0.9995
+[2025-04-01 14:49:43] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:43] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:43] 4G-CE05CW-26-3A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:44] 4G-CE05CW-26-4A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:44] 4G-CE05CW-26-1I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:44] 4G-CE05CW-26-2I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:45] 4G-CE05CW-26-3I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:45] 4G-CE05CW-26-4I tem menos que 50 usuarios. RSignal ajustado = 75 dBm
+[2025-04-01 14:49:46] 4G-CE05CW-26-1B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:46] 4G-CE05CW-26-2B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:46] 4G-CE05CW-26-3B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:47] 4G-CE05CW-26-4B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:47] 4G-CE05CW-26-1J tem menos que 50 usuarios. RSignal ajustado = 95 dBm
+[2025-04-01 14:49:48] 4G-CE05CW-26-2J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:48] 4G-CE05CW-26-3J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:49] 4G-CE05CW-26-4J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:49] 4G-CE05CW-26-1C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:49] 4G-CE05CW-26-2C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:50] 4G-CE05CW-26-3C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:50] 4G-CE05CW-26-4C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:50] 4G-CE05CW-26-1K tem menos que 50 usuarios. RSignal ajustado = 85 dBm
+[2025-04-01 14:49:51] 4G-CE05CW-26-2K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:51] 4G-CE05CW-26-3K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:52] 4G-CE05CW-26-4K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:52] 4G-CE05CW-21-1A tem menos que 50 usuarios. RSignal ajustado = 45 dBm
+[2025-04-01 14:49:53] 4G-CE05CW-21-2A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:53] 4G-CE05CW-21-3A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:54] 4G-CE05CW-21-4A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:54] 4G-CE05CW-21-1B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:54] 4G-CE05CW-21-2B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:55] 4G-CE05CW-21-3B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:55] 4G-CE05CW-21-4B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:55] 4G-CE05CW-21-1C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:56] 4G-CE05CW-21-2C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:56] 4G-CE05CW-21-3C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:56] 4G-CE05CW-21-4C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:57] 4G-CE05CW-18-1A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:57] 4G-CE05CW-18-2A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:57] 4G-CE05CW-18-3A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:58] 4G-CE05CW-18-4A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:58] 4G-CE05CW-18-1B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:58] 4G-CE05CW-18-2B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:59] 4G-CE05CW-18-3B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:59] 4G-CE05CW-18-4B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:49:59] 4G-CE05CW-18-1C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:00] 4G-CE05CW-18-2C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:00] 4G-CE05CW-18-3C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:00] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:01] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:30] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:30] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:31] 4G-CE05CW-26-3A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:31] 4G-CE05CW-26-4A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:31] 4G-CE05CW-26-1I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:32] 4G-CE05CW-26-2I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:32] 4G-CE05CW-26-3I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:33] 4G-CE05CW-26-4I tem menos que 50 usuarios. RSignal ajustado = 85 dBm
+[2025-04-01 14:50:34] 4G-CE05CW-26-1B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:34] 4G-CE05CW-26-2B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:34] 4G-CE05CW-26-3B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:35] 4G-CE05CW-26-4B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:35] 4G-CE05CW-26-1J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:35] 4G-CE05CW-26-2J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:36] 4G-CE05CW-26-3J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:36] 4G-CE05CW-26-4J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:36] 4G-CE05CW-26-1C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:37] 4G-CE05CW-26-2C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:37] 4G-CE05CW-26-3C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:37] 4G-CE05CW-26-4C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:38] 4G-CE05CW-26-1K tem menos que 50 usuarios. RSignal ajustado = 95 dBm
+[2025-04-01 14:50:38] 4G-CE05CW-26-2K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:39] 4G-CE05CW-26-3K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:39] 4G-CE05CW-26-4K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:39] 4G-CE05CW-21-1A tem menos que 50 usuarios. RSignal ajustado = 55 dBm
+[2025-04-01 14:50:40] 4G-CE05CW-21-2A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:40] 4G-CE05CW-21-3A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:41] 4G-CE05CW-21-4A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:41] 4G-CE05CW-21-1B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:42] 4G-CE05CW-21-2B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:42] 4G-CE05CW-21-3B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:42] 4G-CE05CW-21-4B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:43] 4G-CE05CW-21-1C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:43] 4G-CE05CW-21-2C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:44] 4G-CE05CW-21-3C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:44] 4G-CE05CW-21-4C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:45] 4G-CE05CW-18-1A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:45] 4G-CE05CW-18-2A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:45] 4G-CE05CW-18-3A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:46] 4G-CE05CW-18-4A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:46] 4G-CE05CW-18-1B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:46] 4G-CE05CW-18-2B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:47] 4G-CE05CW-18-3B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:47] 4G-CE05CW-18-4B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:47] 4G-CE05CW-18-1C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:48] 4G-CE05CW-18-2C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:48] 4G-CE05CW-18-3C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:48] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:50:49] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:51:52] Cell: 4G-CE05CW-18-4C; Tilt: -7.0; Azimuth: -14;  Usuarios: 0; Iterations: 1; Confidence: [0.5]
+[2025-04-01 14:52:13] Cell: 4G-CE05CW-18-4C; Tilt: 9.0; Azimuth: 30;  Usuarios: 0; Iterations: 2; Confidence: [0.5]
+[2025-04-01 14:52:35] Cell: 4G-CE05CW-18-4C; Tilt: -12.0; Azimuth: -29;  Usuarios: 0; Iterations: 3; Confidence: [0.5]
+[2025-04-01 14:52:56] Cell: 4G-CE05CW-18-4C; Tilt: 15.0; Azimuth: 30;  Usuarios: 0; Iterations: 4; Confidence: [0.5]
+[2025-04-01 14:53:17] Cell: 4G-CE05CW-18-4C; Tilt: -14.0; Azimuth: -30;  Usuarios: 0; Iterations: 5; Confidence: [0.5]
+[2025-04-01 14:53:38] Cell: 4G-CE05CW-18-4C; Tilt: -14.0; Azimuth: 30;  Usuarios: 0; Iterations: 6; Confidence: [0.5]
+[2025-04-01 14:54:00] Cell: 4G-CE05CW-18-4C; Tilt: 15.0; Azimuth: -30;  Usuarios: 0; Iterations: 7; Confidence: [0.5]
+[2025-04-01 14:54:21] Cell: 4G-CE05CW-18-4C; Tilt: -13.0; Azimuth: 30;  Usuarios: 0; Iterations: 8; Confidence: [0.5]
+[2025-04-01 14:54:43] Cell: 4G-CE05CW-18-4C; Tilt: -15.0; Azimuth: -29;  Usuarios: 0; Iterations: 9; Confidence: [0.5]
+[2025-04-01 14:55:06] Cell: 4G-CE05CW-18-4C; Tilt: -14.0; Azimuth: 29;  Usuarios: 0; Iterations: 10; Confidence: [0.5]
+[2025-04-01 14:55:28] Cell: 4G-CE05CW-18-4C; Tilt: 15.0; Azimuth: -27;  Usuarios: 0; Iterations: 11; Confidence: [0.5]
+[2025-04-01 14:55:51] Cell: 4G-CE05CW-18-4C; Tilt: 10.0; Azimuth: 30;  Usuarios: 1; Iterations: 12; Confidence: [0.5]
+[2025-04-01 14:55:52]  Melhor posicao ; Cell: 4G-CE05CW-18-4C; Tilt: 10.0; Azimuth: 30;  Iterations: 13; Confidence: 0.9998
+[2025-04-01 14:55:53] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:54] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:55] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:55] 4G-CE05CW-26-3A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:55] 4G-CE05CW-26-4A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:56] 4G-CE05CW-26-1I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:56] 4G-CE05CW-26-2I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:56] 4G-CE05CW-26-3I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:56] 4G-CE05CW-26-4I tem menos que 50 usuarios. RSignal ajustado = 95 dBm
+[2025-04-01 14:55:57] 4G-CE05CW-26-1B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:57] 4G-CE05CW-26-2B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:58] 4G-CE05CW-26-3B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:58] 4G-CE05CW-26-4B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:58] 4G-CE05CW-26-1J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:58] 4G-CE05CW-26-2J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:59] 4G-CE05CW-26-3J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:59] 4G-CE05CW-26-4J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:59] 4G-CE05CW-26-1C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:55:59] 4G-CE05CW-26-2C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:00] 4G-CE05CW-26-3C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:00] 4G-CE05CW-26-4C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:00] 4G-CE05CW-26-1K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:01] 4G-CE05CW-26-2K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:01] 4G-CE05CW-26-3K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:02] 4G-CE05CW-26-4K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:02] 4G-CE05CW-21-1A tem menos que 50 usuarios. RSignal ajustado = 65 dBm
+[2025-04-01 14:56:03] 4G-CE05CW-21-2A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:03] 4G-CE05CW-21-3A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:04] 4G-CE05CW-21-4A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:04] 4G-CE05CW-21-1B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:04] 4G-CE05CW-21-2B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:05] 4G-CE05CW-21-3B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:05] 4G-CE05CW-21-4B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:05] 4G-CE05CW-21-1C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:06] 4G-CE05CW-21-2C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:06] 4G-CE05CW-21-3C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:06] 4G-CE05CW-21-4C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:06] 4G-CE05CW-18-1A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:06] 4G-CE05CW-18-2A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:07] 4G-CE05CW-18-3A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:07] 4G-CE05CW-18-4A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:07] 4G-CE05CW-18-1B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:08] 4G-CE05CW-18-2B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:08] 4G-CE05CW-18-3B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:08] 4G-CE05CW-18-4B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:08] 4G-CE05CW-18-1C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:09] 4G-CE05CW-18-2C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:09] 4G-CE05CW-18-3C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:09] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:56:09] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 14:57:13] Cell: 4G-CE05CW-18-4C; Tilt: -10.0; Azimuth: -28;  Usuarios: 0; Iterations: 1; Confidence: [0.5]
+[2025-04-01 14:58:00] Cell: 4G-CE05CW-18-4C; Tilt: 6.7; Azimuth: 5;  Usuarios: 1; Iterations: 2; Confidence: [0.6482436]
+[2025-04-01 14:58:32] Cell: 4G-CE05CW-18-4C; Tilt: -11.1; Azimuth: 28;  Usuarios: 0; Iterations: 3; Confidence: [0.62775808]
+[2025-04-01 14:59:02] Cell: 4G-CE05CW-18-4C; Tilt: 15.0; Azimuth: 21;  Usuarios: 0; Iterations: 4; Confidence: [0.57791811]
+[2025-04-01 14:59:40] Cell: 4G-CE05CW-18-4C; Tilt: 3.2; Azimuth: 3;  Usuarios: 1; Iterations: 5; Confidence: [0.58724544]
+[2025-04-01 15:00:13] Cell: 4G-CE05CW-18-4C; Tilt: 5.5; Azimuth: 30;  Usuarios: 0; Iterations: 6; Confidence: [0.62616638]
+[2025-04-01 15:00:49] Cell: 4G-CE05CW-18-4C; Tilt: 5.6; Azimuth: 2;  Usuarios: 1; Iterations: 7; Confidence: [0.38179502]
+[2025-04-01 15:01:28] Cell: 4G-CE05CW-18-4C; Tilt: 12.5; Azimuth: 30;  Usuarios: 1; Iterations: 8; Confidence: [0.45565731]
+[2025-04-01 15:02:06] Cell: 4G-CE05CW-18-4C; Tilt: 1.7; Azimuth: -2;  Usuarios: 2; Iterations: 9; Confidence: [0.65194788]
+[2025-04-01 15:02:47] Cell: 4G-CE05CW-18-4C; Tilt: 0.4; Azimuth: -3;  Usuarios: 0; Iterations: 10; Confidence: [0.60597945]
+[2025-04-01 15:02:49]  Melhor posicao ; Cell: 4G-CE05CW-18-4C; Tilt: 1.7; Azimuth: -1;  Iterations: 11; Confidence: 0.9837
+[2025-04-01 15:02:49] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:50] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:51] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:51] 4G-CE05CW-26-3A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:51] 4G-CE05CW-26-4A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:51] 4G-CE05CW-26-1I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:52] 4G-CE05CW-26-2I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:52] 4G-CE05CW-26-3I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:52] 4G-CE05CW-26-4I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:52] 4G-CE05CW-26-1B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:53] 4G-CE05CW-26-2B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:53] 4G-CE05CW-26-3B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:53] 4G-CE05CW-26-4B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:53] 4G-CE05CW-26-1J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:54] 4G-CE05CW-26-2J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:54] 4G-CE05CW-26-3J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:54] 4G-CE05CW-26-4J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:54] 4G-CE05CW-26-1C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:55] 4G-CE05CW-26-2C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:55] 4G-CE05CW-26-3C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:55] 4G-CE05CW-26-4C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:55] 4G-CE05CW-26-1K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:56] 4G-CE05CW-26-2K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:56] 4G-CE05CW-26-3K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:56] 4G-CE05CW-26-4K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:56] 4G-CE05CW-21-1A tem menos que 50 usuarios. RSignal ajustado = 75 dBm
+[2025-04-01 15:02:57] 4G-CE05CW-21-2A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:57] 4G-CE05CW-21-3A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:58] 4G-CE05CW-21-4A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:58] 4G-CE05CW-21-1B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:58] 4G-CE05CW-21-2B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:59] 4G-CE05CW-21-3B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:59] 4G-CE05CW-21-4B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:59] 4G-CE05CW-21-1C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:02:59] 4G-CE05CW-21-2C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:00] 4G-CE05CW-21-3C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:00] 4G-CE05CW-21-4C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:00] 4G-CE05CW-18-1A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:00] 4G-CE05CW-18-2A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:01] 4G-CE05CW-18-3A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:01] 4G-CE05CW-18-4A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:01] 4G-CE05CW-18-1B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:02] 4G-CE05CW-18-2B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:02] 4G-CE05CW-18-3B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:03] 4G-CE05CW-18-4B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:03] 4G-CE05CW-18-1C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:03] 4G-CE05CW-18-2C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:04] 4G-CE05CW-18-3C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:04] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:03:04] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:04:07] Cell: 4G-CE05CW-18-4C; Tilt: -15.0; Azimuth: 30;  Usuarios: 2; Iterations: 1; Confidence: [0.5]
+[2025-04-01 15:04:33] Cell: 4G-CE05CW-18-4C; Tilt: -4.8; Azimuth: 30;  Usuarios: 2; Iterations: 2; Confidence: [0.73798124]
+[2025-04-01 15:04:58] Cell: 4G-CE05CW-18-4C; Tilt: 15.0; Azimuth: 30;  Usuarios: 1; Iterations: 3; Confidence: [0.82463836]
+[2025-04-01 15:05:24] Cell: 4G-CE05CW-18-4C; Tilt: -9.7; Azimuth: 30;  Usuarios: 2; Iterations: 4; Confidence: [0.23807233]
+[2025-04-01 15:05:50] Cell: 4G-CE05CW-18-4C; Tilt: -15.0; Azimuth: 21;  Usuarios: 1; Iterations: 5; Confidence: [0.73426697]
+[2025-04-01 15:06:13] Cell: 4G-CE05CW-18-4C; Tilt: -12.5; Azimuth: 30;  Usuarios: 1; Iterations: 6; Confidence: [0.46454104]
+[2025-04-01 15:06:34] Cell: 4G-CE05CW-18-4C; Tilt: -12.0; Azimuth: -11;  Usuarios: 0; Iterations: 7; Confidence: [0.9016472]
+[2025-04-01 15:06:56] Cell: 4G-CE05CW-18-4C; Tilt: 5.0; Azimuth: -19;  Usuarios: 0; Iterations: 8; Confidence: [0.89203753]
+[2025-04-01 15:07:18] Cell: 4G-CE05CW-18-4C; Tilt: -8.0; Azimuth: -8;  Usuarios: 1; Iterations: 9; Confidence: [0.9007286]
+[2025-04-01 15:07:40] Cell: 4G-CE05CW-18-4C; Tilt: -8.0; Azimuth: -13;  Usuarios: 1; Iterations: 10; Confidence: [0.91321592]
+[2025-04-01 15:08:02] Cell: 4G-CE05CW-18-4C; Tilt: 9.0; Azimuth: 10;  Usuarios: 1; Iterations: 11; Confidence: [0.92393925]
+[2025-04-01 15:08:23] Cell: 4G-CE05CW-18-4C; Tilt: 8.0; Azimuth: -9;  Usuarios: 1; Iterations: 12; Confidence: [0.9331928]
+[2025-04-01 15:08:44] Cell: 4G-CE05CW-18-4C; Tilt: -14.0; Azimuth: -20;  Usuarios: 0; Iterations: 13; Confidence: [0.94121043]
+[2025-04-01 15:09:05] Cell: 4G-CE05CW-18-4C; Tilt: -9.6; Azimuth: 30;  Usuarios: 1; Iterations: 14; Confidence: [0.70269499]
+[2025-04-01 15:09:26] Cell: 4G-CE05CW-18-4C; Tilt: 2.0; Azimuth: -6;  Usuarios: 1; Iterations: 15; Confidence: [0.94876478]
+[2025-04-01 15:09:27]  Melhor posicao ; Cell: 4G-CE05CW-18-4C; Tilt: -15.0; Azimuth: 30;  Iterations: 16; Confidence: 0.9538
+[2025-04-01 15:09:27] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:29] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:29] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:30] 4G-CE05CW-26-3A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:30] 4G-CE05CW-26-4A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:30] 4G-CE05CW-26-1I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:30] 4G-CE05CW-26-2I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:31] 4G-CE05CW-26-3I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:31] 4G-CE05CW-26-4I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:31] 4G-CE05CW-26-1B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:31] 4G-CE05CW-26-2B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:32] 4G-CE05CW-26-3B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:32] 4G-CE05CW-26-4B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:32] 4G-CE05CW-26-1J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:32] 4G-CE05CW-26-2J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:33] 4G-CE05CW-26-3J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:33] 4G-CE05CW-26-4J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:33] 4G-CE05CW-26-1C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:33] 4G-CE05CW-26-2C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:34] 4G-CE05CW-26-3C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:34] 4G-CE05CW-26-4C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:34] 4G-CE05CW-26-1K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:34] 4G-CE05CW-26-2K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:35] 4G-CE05CW-26-3K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:35] 4G-CE05CW-26-4K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:35] 4G-CE05CW-21-1A tem menos que 50 usuarios. RSignal ajustado = 85 dBm
+[2025-04-01 15:09:36] 4G-CE05CW-21-2A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:36] 4G-CE05CW-21-3A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:36] 4G-CE05CW-21-4A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:36] 4G-CE05CW-21-1B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:37] 4G-CE05CW-21-2B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:37] 4G-CE05CW-21-3B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:37] 4G-CE05CW-21-4B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:37] 4G-CE05CW-21-1C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:38] 4G-CE05CW-21-2C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:38] 4G-CE05CW-21-3C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:38] 4G-CE05CW-21-4C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:38] 4G-CE05CW-18-1A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:38] 4G-CE05CW-18-2A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:39] 4G-CE05CW-18-3A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:39] 4G-CE05CW-18-4A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:39] 4G-CE05CW-18-1B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:40] 4G-CE05CW-18-2B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:40] 4G-CE05CW-18-3B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:40] 4G-CE05CW-18-4B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:41] 4G-CE05CW-18-1C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:41] 4G-CE05CW-18-2C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:41] 4G-CE05CW-18-3C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:41] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:09:42] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:10:44] Cell: 4G-CE05CW-18-4C; Tilt: 14.0; Azimuth: -27;  Usuarios: 1; Iterations: 1; Confidence: [0.5]
+[2025-04-01 15:11:06] Cell: 4G-CE05CW-18-4C; Tilt: 6.7; Azimuth: -1;  Usuarios: 1; Iterations: 2; Confidence: [0.64828348]
+[2025-04-01 15:11:28] Cell: 4G-CE05CW-18-4C; Tilt: 0.0; Azimuth: 7;  Usuarios: 1; Iterations: 3; Confidence: [0.84134475]
+[2025-04-01 15:11:50] Cell: 4G-CE05CW-18-4C; Tilt: 10.0; Azimuth: -16;  Usuarios: 1; Iterations: 4; Confidence: [0.88966432]
+[2025-04-01 15:12:12] Cell: 4G-CE05CW-18-4C; Tilt: -11.0; Azimuth: 9;  Usuarios: 1; Iterations: 5; Confidence: [0.9213504]
+[2025-04-01 15:12:33] Cell: 4G-CE05CW-18-4C; Tilt: -1.0; Azimuth: 9;  Usuarios: 1; Iterations: 6; Confidence: [0.94307685]
+[2025-04-01 15:12:34]  Melhor posicao ; Cell: 4G-CE05CW-18-4C; Tilt: -15.0; Azimuth: 30;  Iterations: 7; Confidence: 0.9584
+[2025-04-01 15:12:34] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:35] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:35] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:36] 4G-CE05CW-26-3A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:36] 4G-CE05CW-26-4A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:36] 4G-CE05CW-26-1I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:36] 4G-CE05CW-26-2I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:37] 4G-CE05CW-26-3I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:37] 4G-CE05CW-26-4I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:37] 4G-CE05CW-26-1B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:37] 4G-CE05CW-26-2B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:38] 4G-CE05CW-26-3B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:38] 4G-CE05CW-26-4B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:38] 4G-CE05CW-26-1J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:39] 4G-CE05CW-26-2J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:39] 4G-CE05CW-26-3J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:39] 4G-CE05CW-26-4J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:39] 4G-CE05CW-26-1C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:40] 4G-CE05CW-26-2C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:40] 4G-CE05CW-26-3C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:40] 4G-CE05CW-26-4C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:41] 4G-CE05CW-26-1K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:41] 4G-CE05CW-26-2K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:41] 4G-CE05CW-26-3K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:41] 4G-CE05CW-26-4K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:42] 4G-CE05CW-21-1A tem menos que 50 usuarios. RSignal ajustado = 95 dBm
+[2025-04-01 15:12:42] 4G-CE05CW-21-2A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:43] 4G-CE05CW-21-3A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:43] 4G-CE05CW-21-4A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:43] 4G-CE05CW-21-1B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:43] 4G-CE05CW-21-2B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:44] 4G-CE05CW-21-3B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:44] 4G-CE05CW-21-4B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:45] 4G-CE05CW-21-1C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:45] 4G-CE05CW-21-2C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:45] 4G-CE05CW-21-3C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:46] 4G-CE05CW-21-4C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:46] 4G-CE05CW-18-1A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:46] 4G-CE05CW-18-2A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:47] 4G-CE05CW-18-3A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:47] 4G-CE05CW-18-4A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:47] 4G-CE05CW-18-1B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:47] 4G-CE05CW-18-2B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:48] 4G-CE05CW-18-3B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:48] 4G-CE05CW-18-4B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:48] 4G-CE05CW-18-1C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:48] 4G-CE05CW-18-2C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:48] 4G-CE05CW-18-3C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:49] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:12:49] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:13:52] Cell: 4G-CE05CW-18-4C; Tilt: 5.5; Azimuth: 0;  Usuarios: 1; Iterations: 1; Confidence: [0.67346309]
+[2025-04-01 15:14:13] Cell: 4G-CE05CW-18-4C; Tilt: -10.0; Azimuth: 29;  Usuarios: 2; Iterations: 2; Confidence: [0.9213504]
+[2025-04-01 15:14:35] Cell: 4G-CE05CW-18-4C; Tilt: 0.0; Azimuth: 0;  Usuarios: 2; Iterations: 3; Confidence: [0.84134475]
+[2025-04-01 15:14:57] Cell: 4G-CE05CW-18-4C; Tilt: 1.0; Azimuth: -1;  Usuarios: 2; Iterations: 4; Confidence: [0.79289191]
+[2025-04-01 15:15:18] Cell: 4G-CE05CW-18-4C; Tilt: 4.0; Azimuth: -16;  Usuarios: 0; Iterations: 5; Confidence: [0.76024994]
+[2025-04-01 15:15:39] Cell: 4G-CE05CW-18-4C; Tilt: 7.0; Azimuth: -14;  Usuarios: 1; Iterations: 6; Confidence: [0.78361621]
+[2025-04-01 15:16:01] Cell: 4G-CE05CW-18-4C; Tilt: -14.0; Azimuth: -6;  Usuarios: 0; Iterations: 7; Confidence: [0.81541429]
+[2025-04-01 15:16:23] Cell: 4G-CE05CW-18-4C; Tilt: -2.0; Azimuth: 19;  Usuarios: 0; Iterations: 8; Confidence: [0.8389006]
+[2025-04-01 15:16:44] Cell: 4G-CE05CW-18-4C; Tilt: 12.0; Azimuth: -8;  Usuarios: 0; Iterations: 9; Confidence: [0.86070066]
+[2025-04-01 15:17:07] Cell: 4G-CE05CW-18-4C; Tilt: 0.5; Azimuth: 0;  Usuarios: 1; Iterations: 10; Confidence: [0.49627437]
+[2025-04-01 15:17:28] Cell: 4G-CE05CW-18-4C; Tilt: 14.0; Azimuth: -5;  Usuarios: 0; Iterations: 11; Confidence: [0.88966432]
+[2025-04-01 15:17:51] Cell: 4G-CE05CW-18-4C; Tilt: 1.1; Azimuth: -1;  Usuarios: 0; Iterations: 12; Confidence: [0.68946281]
+[2025-04-01 15:18:12] Cell: 4G-CE05CW-18-4C; Tilt: 13.0; Azimuth: 19;  Usuarios: 0; Iterations: 13; Confidence: [0.91496652]
+[2025-04-01 15:18:35] Cell: 4G-CE05CW-18-4C; Tilt: 2.0; Azimuth: -11;  Usuarios: 0; Iterations: 14; Confidence: [0.92522932]
+[2025-04-01 15:18:57] Cell: 4G-CE05CW-18-4C; Tilt: -9.0; Azimuth: 4;  Usuarios: 1; Iterations: 15; Confidence: [0.93416599]
+[2025-04-01 15:19:19] Cell: 4G-CE05CW-18-4C; Tilt: -4.0; Azimuth: -22;  Usuarios: 1; Iterations: 16; Confidence: [0.93718724]
+[2025-04-01 15:19:40] Cell: 4G-CE05CW-18-4C; Tilt: -12.0; Azimuth: 6;  Usuarios: 1; Iterations: 17; Confidence: [0.94010253]
+[2025-04-01 15:20:02] Cell: 4G-CE05CW-18-4C; Tilt: -3.0; Azimuth: 19;  Usuarios: 1; Iterations: 18; Confidence: [0.94290608]
+[2025-04-01 15:20:24] Cell: 4G-CE05CW-18-4C; Tilt: 3.0; Azimuth: -14;  Usuarios: 0; Iterations: 19; Confidence: [0.94559528]
+[2025-04-01 15:20:25]  Melhor posicao ; Cell: 4G-CE05CW-18-4C; Tilt: 6.0; Azimuth: 0;  Iterations: 20; Confidence: 0.9506
+[2025-04-01 15:20:25] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:27] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:28] 4G-CE05CW-26-2A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:28] 4G-CE05CW-26-3A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:28] 4G-CE05CW-26-4A tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:29] 4G-CE05CW-26-1I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:29] 4G-CE05CW-26-2I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:29] 4G-CE05CW-26-3I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:29] 4G-CE05CW-26-4I tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:30] 4G-CE05CW-26-1B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:30] 4G-CE05CW-26-2B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:30] 4G-CE05CW-26-3B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:30] 4G-CE05CW-26-4B tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:31] 4G-CE05CW-26-1J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:31] 4G-CE05CW-26-2J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:31] 4G-CE05CW-26-3J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:31] 4G-CE05CW-26-4J tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:32] 4G-CE05CW-26-1C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:32] 4G-CE05CW-26-2C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:32] 4G-CE05CW-26-3C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:33] 4G-CE05CW-26-4C tem menos que 250 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:33] 4G-CE05CW-26-1K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:33] 4G-CE05CW-26-2K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:33] 4G-CE05CW-26-3K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:34] 4G-CE05CW-26-4K tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:34] 4G-CE05CW-21-1A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:34] 4G-CE05CW-21-2A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:34] 4G-CE05CW-21-3A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:35] 4G-CE05CW-21-4A tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:35] 4G-CE05CW-21-1B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:35] 4G-CE05CW-21-2B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:35] 4G-CE05CW-21-3B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:36] 4G-CE05CW-21-4B tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:36] 4G-CE05CW-21-1C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:36] 4G-CE05CW-21-2C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:36] 4G-CE05CW-21-3C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:37] 4G-CE05CW-21-4C tem menos que 50 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:37] 4G-CE05CW-18-1A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:37] 4G-CE05CW-18-2A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:37] 4G-CE05CW-18-3A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:38] 4G-CE05CW-18-4A tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:38] 4G-CE05CW-18-1B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:38] 4G-CE05CW-18-2B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:38] 4G-CE05CW-18-3B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:39] 4G-CE05CW-18-4B tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:39] 4G-CE05CW-18-1C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:39] 4G-CE05CW-18-2C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:39] 4G-CE05CW-18-3C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:40] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:20:40] 4G-CE05CW-18-4C tem menos que 150 usuarios. RSignal já no máximo = 95 dBm
+[2025-04-01 15:21:44] Cell: 4G-CE05CW-18-4C; Tilt: 9.0; Azimuth: -23;  Usuarios: 0; Iterations: 1; Confidence: [0.5]
+[2025-04-01 18:23:40] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-04-01 18:23:54] 4G-CE05CW-26-1A tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:19] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:20] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:21] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:21] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:22] 4G-CGLBJ0-21-1A ja tem mais que 50 usuarios. RSignal ajustado = 120 dBm
+[2025-05-30 18:20:23] 4G-CGLBJ0-21-2A ja tem mais que 50 usuarios. RSignal ajustado = 120 dBm
+[2025-05-30 18:20:24] 4G-CGLBJ0-21-3A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:25] 4G-CGLBJ0-21-4A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:25] 4G-CGLBJ0-21-1B tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:25] 4G-CGLBJ0-21-2B ja tem mais que 50 usuarios. RSignal ajustado = 90 dBm
+[2025-05-30 18:20:26] 4G-CGLBJ0-21-3B ja tem mais que 50 usuarios. RSignal ajustado = 110 dBm
+[2025-05-30 18:20:27] 4G-CGLBJ0-21-4B ja tem mais que 50 usuarios. RSignal ajustado = 100 dBm
+[2025-05-30 18:20:29] 4G-CGLBJ0-21-1C ja tem mais que 50 usuarios. RSignal ajustado = 120 dBm
+[2025-05-30 18:20:30] 4G-CGLBJ0-21-2C tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:30] 4G-CGLBJ0-21-3C tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:30] 4G-CGLBJ0-21-4C ja tem mais que 50 usuarios. RSignal ajustado = 120 dBm
+[2025-05-30 18:20:32] 4G-CGLBJ0-21-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:32] 4G-CGLBJ0-21-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:32] 4G-CGLBJ0-21-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:33] 4G-CGLBJ0-21-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:33] 4G-CGLBJ0-18-1A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:34] 4G-CGLBJ0-18-2A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:34] 4G-CGLBJ0-18-3A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:34] 4G-CGLBJ0-18-4A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:35] 4G-CGLBJ0-18-1B tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:35] 4G-CGLBJ0-18-2B tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:35] 4G-CGLBJ0-18-3B ja tem mais que 150 usuarios. RSignal ajustado = 120 dBm
+[2025-05-30 18:20:36] 4G-CGLBJ0-18-4B ja tem mais que 150 usuarios. RSignal ajustado = 120 dBm
+[2025-05-30 18:20:37] 4G-CGLBJ0-18-1C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:38] 4G-CGLBJ0-18-2C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:38] 4G-CGLBJ0-18-3C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:39] 4G-CGLBJ0-18-4C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:39] 4G-CGLBJ0-18-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:39] 4G-CGLBJ0-18-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:40] 4G-CGLBJ0-18-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:40] 4G-CGLBJ0-18-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:41] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:41] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:41] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:42] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:42] 4G-CGLBJ0-21-1A ja tem mais que 50 usuarios. RSignal ajustado = 110 dBm
+[2025-05-30 18:20:43] 4G-CGLBJ0-21-2A ja tem mais que 50 usuarios. RSignal ajustado = 110 dBm
+[2025-05-30 18:20:44] 4G-CGLBJ0-21-3A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:44] 4G-CGLBJ0-21-4A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:45] 4G-CGLBJ0-21-1B tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:45] 4G-CGLBJ0-21-2B ja tem mais que 50 usuarios. RSignal ajustado = 80 dBm
+[2025-05-30 18:20:47] 4G-CGLBJ0-21-3B ja tem mais que 50 usuarios. RSignal ajustado = 100 dBm
+[2025-05-30 18:20:48] 4G-CGLBJ0-21-4B ja tem mais que 50 usuarios. RSignal ajustado = 90 dBm
+[2025-05-30 18:20:50] 4G-CGLBJ0-21-1C ja tem mais que 50 usuarios. RSignal ajustado = 110 dBm
+[2025-05-30 18:20:51] 4G-CGLBJ0-21-2C tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:51] 4G-CGLBJ0-21-3C tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:51] 4G-CGLBJ0-21-4C ja tem mais que 50 usuarios. RSignal ajustado = 110 dBm
+[2025-05-30 18:20:53] 4G-CGLBJ0-21-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:53] 4G-CGLBJ0-21-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:54] 4G-CGLBJ0-21-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:54] 4G-CGLBJ0-21-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:54] 4G-CGLBJ0-18-1A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:55] 4G-CGLBJ0-18-2A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:55] 4G-CGLBJ0-18-3A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:56] 4G-CGLBJ0-18-4A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:56] 4G-CGLBJ0-18-1B tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:56] 4G-CGLBJ0-18-2B tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:57] 4G-CGLBJ0-18-3B ja tem mais que 150 usuarios. RSignal ajustado = 110 dBm
+[2025-05-30 18:20:58] 4G-CGLBJ0-18-4B ja tem mais que 150 usuarios. RSignal ajustado = 110 dBm
+[2025-05-30 18:20:58] 4G-CGLBJ0-18-1C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:59] 4G-CGLBJ0-18-2C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:20:59] 4G-CGLBJ0-18-3C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:00] 4G-CGLBJ0-18-4C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:00] 4G-CGLBJ0-18-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:01] 4G-CGLBJ0-18-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:01] 4G-CGLBJ0-18-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:01] 4G-CGLBJ0-18-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:02] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:02] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:03] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:03] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:03] 4G-CGLBJ0-21-1A ja tem mais que 50 usuarios. RSignal ajustado = 100 dBm
+[2025-05-30 18:21:04] 4G-CGLBJ0-21-2A ja tem mais que 50 usuarios. RSignal ajustado = 100 dBm
+[2025-05-30 18:21:05] 4G-CGLBJ0-21-3A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:06] 4G-CGLBJ0-21-4A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:06] 4G-CGLBJ0-21-1B tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:06] 4G-CGLBJ0-21-2B ja tem mais que 50 usuarios. RSignal ajustado = 70 dBm
+[2025-05-30 18:21:07] 4G-CGLBJ0-21-3B ja tem mais que 50 usuarios. RSignal ajustado = 90 dBm
+[2025-05-30 18:21:08] 4G-CGLBJ0-21-4B ja tem mais que 50 usuarios. RSignal ajustado = 80 dBm
+[2025-05-30 18:21:09] 4G-CGLBJ0-21-1C ja tem mais que 50 usuarios. RSignal ajustado = 100 dBm
+[2025-05-30 18:21:10] 4G-CGLBJ0-21-2C tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:10] 4G-CGLBJ0-21-3C tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:11] 4G-CGLBJ0-21-4C ja tem mais que 50 usuarios. RSignal ajustado = 100 dBm
+[2025-05-30 18:21:12] 4G-CGLBJ0-21-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:12] 4G-CGLBJ0-21-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:12] 4G-CGLBJ0-21-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:13] 4G-CGLBJ0-21-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:13] 4G-CGLBJ0-18-1A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:13] 4G-CGLBJ0-18-2A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:14] 4G-CGLBJ0-18-3A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:14] 4G-CGLBJ0-18-4A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:14] 4G-CGLBJ0-18-1B tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:15] 4G-CGLBJ0-18-2B tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:15] 4G-CGLBJ0-18-3B ja tem mais que 150 usuarios. RSignal ajustado = 100 dBm
+[2025-05-30 18:21:16] 4G-CGLBJ0-18-4B ja tem mais que 150 usuarios. RSignal ajustado = 100 dBm
+[2025-05-30 18:21:17] 4G-CGLBJ0-18-1C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:17] 4G-CGLBJ0-18-2C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:17] 4G-CGLBJ0-18-3C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:18] 4G-CGLBJ0-18-4C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:18] 4G-CGLBJ0-18-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:18] 4G-CGLBJ0-18-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:18] 4G-CGLBJ0-18-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:19] 4G-CGLBJ0-18-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:19] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:19] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:20] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:21] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:21] 4G-CGLBJ0-21-1A ja tem mais que 50 usuarios. RSignal ajustado = 90 dBm
+[2025-05-30 18:21:22] 4G-CGLBJ0-21-2A ja tem mais que 50 usuarios. RSignal ajustado = 90 dBm
+[2025-05-30 18:21:22] 4G-CGLBJ0-21-3A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:23] 4G-CGLBJ0-21-4A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:23] 4G-CGLBJ0-21-1B tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:24] 4G-CGLBJ0-21-2B ja tem mais que 50 usuarios. RSignal ajustado = 60 dBm
+[2025-05-30 18:21:25] 4G-CGLBJ0-21-3B ja tem mais que 50 usuarios. RSignal ajustado = 80 dBm
+[2025-05-30 18:21:26] 4G-CGLBJ0-21-4B ja tem mais que 50 usuarios. RSignal ajustado = 70 dBm
+[2025-05-30 18:21:27] 4G-CGLBJ0-21-1C ja tem mais que 50 usuarios. RSignal ajustado = 90 dBm
+[2025-05-30 18:21:28] 4G-CGLBJ0-21-2C tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:28] 4G-CGLBJ0-21-3C tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:29] 4G-CGLBJ0-21-4C ja tem mais que 50 usuarios. RSignal ajustado = 90 dBm
+[2025-05-30 18:21:30] 4G-CGLBJ0-21-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:30] 4G-CGLBJ0-21-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:31] 4G-CGLBJ0-21-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:31] 4G-CGLBJ0-21-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:32] 4G-CGLBJ0-18-1A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:32] 4G-CGLBJ0-18-2A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:32] 4G-CGLBJ0-18-3A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:33] 4G-CGLBJ0-18-4A tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:33] 4G-CGLBJ0-18-1B tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:33] 4G-CGLBJ0-18-2B tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:34] 4G-CGLBJ0-18-3B ja tem mais que 150 usuarios. RSignal ajustado = 90 dBm
+[2025-05-30 18:21:35] 4G-CGLBJ0-18-4B ja tem mais que 150 usuarios. RSignal ajustado = 90 dBm
+[2025-05-30 18:21:35] 4G-CGLBJ0-18-1C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:36] 4G-CGLBJ0-18-2C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:36] 4G-CGLBJ0-18-3C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:36] 4G-CGLBJ0-18-4C tem menos que 150 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:37] 4G-CGLBJ0-18-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:37] 4G-CGLBJ0-18-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:38] 4G-CGLBJ0-18-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:38] 4G-CGLBJ0-18-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:38] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:39] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:39] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:39] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:40] 4G-CGLBJ0-21-1A ja tem mais que 50 usuarios. RSignal ajustado = 80 dBm
+[2025-05-30 18:21:41] 4G-CGLBJ0-21-2A ja tem mais que 50 usuarios. RSignal ajustado = 80 dBm
+[2025-05-30 18:21:41] 4G-CGLBJ0-21-3A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-05-30 18:21:42] 4G-CGLBJ0-21-4A tem menos que 50 usuarios. RSignal j� no m�ximo = 95 dBm
+[2025-06-11 17:49:11] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-11 17:49:30] Cell: 4C-CGLBJ0-26-1D; Tilt: 4.0; Azimuth: 1;  Usuarios: 18; Iterations: 1; Confidence: [0.84134475]
+[2025-06-11 17:49:39] Cell: 4C-CGLBJ0-26-1D; Tilt: 10.0; Azimuth: -19;  Usuarios: 5; Iterations: 2; Confidence: [0.84591023]
+[2025-06-11 17:49:46] Cell: 4C-CGLBJ0-26-1D; Tilt: 7.0; Azimuth: -22;  Usuarios: 6; Iterations: 3; Confidence: [0.85004866]
+[2025-06-11 17:50:11] Cell: 4C-CGLBJ0-26-1D; Tilt: 3.2; Azimuth: -2;  Usuarios: 8; Iterations: 4; Confidence: [0.4936288]
+[2025-06-11 17:50:20] Cell: 4C-CGLBJ0-26-1D; Tilt: 13.0; Azimuth: 1;  Usuarios: 13; Iterations: 5; Confidence: [0.9248664]
+[2025-06-11 17:50:27] Cell: 4C-CGLBJ0-26-1D; Tilt: 12.0; Azimuth: 6;  Usuarios: 14; Iterations: 6; Confidence: [0.93481227]
+[2025-06-11 17:50:34] Cell: 4C-CGLBJ0-26-1D; Tilt: 12.0; Azimuth: -22;  Usuarios: 4; Iterations: 7; Confidence: [0.93926203]
+[2025-06-11 17:50:40] Cell: 4C-CGLBJ0-26-1D; Tilt: 8.0; Azimuth: -21;  Usuarios: 4; Iterations: 8; Confidence: [0.94694753]
+[2025-06-11 17:50:56] Cell: 4C-CGLBJ0-26-1D; Tilt: 5.6; Azimuth: -2;  Usuarios: 4; Iterations: 9; Confidence: [0.62220379]
+[2025-06-11 17:50:58]  Melhor posicao ; Cell: 4C-CGLBJ0-26-1D; Tilt: 5.0; Azimuth: -2;  Iterations: 10; Confidence: 0.9630
+[2025-06-11 17:50:59] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ajustado = 85 dBm
+[2025-06-11 17:51:19] Cell: 4C-CGLBJ0-26-2D; Tilt: 11.0; Azimuth: 22;  Usuarios: 15; Iterations: 1; Confidence: [0.84134475]
+[2025-06-11 17:51:41] Cell: 4C-CGLBJ0-26-2D; Tilt: 9.6; Azimuth: -9;  Usuarios: 13; Iterations: 2; Confidence: [0.54750651]
+[2025-06-11 17:51:59] Cell: 4C-CGLBJ0-26-2D; Tilt: 9.3; Azimuth: 1;  Usuarios: 20; Iterations: 3; Confidence: [0.66095408]
+[2025-06-11 17:52:18] Cell: 4C-CGLBJ0-26-2D; Tilt: 5.7; Azimuth: -2;  Usuarios: 22; Iterations: 4; Confidence: [0.59147392]
+[2025-06-11 17:52:31] Cell: 4C-CGLBJ0-26-2D; Tilt: 7.0; Azimuth: 0;  Usuarios: 31; Iterations: 5; Confidence: [0.51111235]
+[2025-06-11 17:52:46] Cell: 4C-CGLBJ0-26-2D; Tilt: 6.0; Azimuth: 2;  Usuarios: 29; Iterations: 6; Confidence: [0.83433238]
+[2025-06-13 11:12:06] Current time is outside the allowed interval (17:00-05:00). Waiting 15 minutes...
+[2025-06-13 11:21:14] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:15] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:15] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:16] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:16] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:17] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:17] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:18] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:18] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:19] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:19] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:20] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:20] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:20] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:21] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:21] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:21] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:22] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:22] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:23] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:23] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:23] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:24] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:24] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:24] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:25] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:25] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:26] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:26] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:27] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:27] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:28] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:28] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:29] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:29] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:29] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:30] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:30] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:30] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:31] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:31] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:31] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:32] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:32] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:32] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:33] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:33] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:33] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:34] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:34] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:34] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:35] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:35] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:35] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:36] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:36] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:21:36] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:37] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:37] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:37] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:21:38] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:23:50] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:50] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:51] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:51] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:51] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:23:52] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:23:52] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:23:52] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:23:53] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:53] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:53] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:54] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:54] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:55] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:55] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:56] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:56] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:23:56] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:23:57] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:23:57] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:23:58] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:58] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:58] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:59] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:59] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:23:59] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:00] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:00] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:00] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:01] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:01] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:02] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:02] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:02] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:03] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:03] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:03] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:04] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:04] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:04] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:05] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:05] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:05] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:06] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:06] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:07] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:07] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:07] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:08] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:08] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:09] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:09] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:09] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:10] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:10] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:11] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:24:11] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:11] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:12] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:12] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:24:12] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:40:51] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:41:06] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:41:57] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:41:58] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:41:58] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:41:59] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:41:59] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:41:59] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:00] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:00] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:00] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:01] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:01] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:02] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:02] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:02] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:03] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:03] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:03] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:04] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:04] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:04] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:05] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:05] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:05] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:06] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:06] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:07] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:07] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:08] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:08] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:09] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:09] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:09] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:09] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:10] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:10] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:10] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:11] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:11] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:12] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:12] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:12] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:13] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:13] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:14] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:14] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:14] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:15] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:15] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:16] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:16] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:16] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:17] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:17] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:17] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:18] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:18] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 11:42:19] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:19] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:19] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:20] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 11:42:20] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:26:31] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:26:59] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:27:03] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:27:07] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:27:10] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:27:13] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:27:16] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:27:18] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:27:22] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:27:27] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:27:30] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:27:32] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:32:37] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:33:49] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:33:50] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:33:50] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:33:51] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:33:51] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:33:51] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:33:52] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:33:52] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:33:52] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:33:53] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:33:53] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:33:53] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:33:54] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:34:59] Cell: 4C-CGLBJ0-26-1D; Tilt: 5.0; Azimuth: 16;  Usuarios: 11; Iterations: 1; Confidence: [0.84134475]
+[2025-06-13 14:35:20] Cell: 4C-CGLBJ0-26-1D; Tilt: 9.0; Azimuth: 26;  Usuarios: 4; Iterations: 2; Confidence: [0.76024994]
+[2025-06-13 14:35:42] Cell: 4C-CGLBJ0-26-1D; Tilt: 12.0; Azimuth: -2;  Usuarios: 11; Iterations: 3; Confidence: [0.80795588]
+[2025-06-13 14:36:04] Cell: 4C-CGLBJ0-26-1D; Tilt: 6.0; Azimuth: 23;  Usuarios: 7; Iterations: 4; Confidence: [0.76592005]
+[2025-06-13 14:36:25] Cell: 4C-CGLBJ0-26-1D; Tilt: 12.0; Azimuth: -5;  Usuarios: 7; Iterations: 5; Confidence: [0.8129987]
+[2025-06-13 14:36:47] Cell: 4C-CGLBJ0-26-1D; Tilt: 6.0; Azimuth: -7;  Usuarios: 13; Iterations: 6; Confidence: [0.84825817]
+[2025-06-13 14:37:08] Cell: 4C-CGLBJ0-26-1D; Tilt: 12.0; Azimuth: 18;  Usuarios: 4; Iterations: 7; Confidence: [0.92461861]
+[2025-06-13 14:37:29] Cell: 4C-CGLBJ0-26-1D; Tilt: 8.0; Azimuth: 6;  Usuarios: 6; Iterations: 8; Confidence: [0.93178094]
+[2025-06-13 14:37:50] Cell: 4C-CGLBJ0-26-1D; Tilt: 4.0; Azimuth: 1;  Usuarios: 11; Iterations: 9; Confidence: [0.94559528]
+[2025-06-13 14:38:15] Cell: 4C-CGLBJ0-26-1D; Tilt: 5.6; Azimuth: -8;  Usuarios: 5; Iterations: 10; Confidence: [0.69330329]
+[2025-06-13 14:38:37] Cell: 4C-CGLBJ0-26-1D; Tilt: 5.0; Azimuth: -28;  Usuarios: 2; Iterations: 11; Confidence: [0.94669323]
+[2025-06-13 14:38:58] Cell: 4C-CGLBJ0-26-1D; Tilt: 3.0; Azimuth: 27;  Usuarios: 11; Iterations: 12; Confidence: [0.94538042]
+[2025-06-13 14:39:19] Cell: 4C-CGLBJ0-26-1D; Tilt: 6.0; Azimuth: -7;  Usuarios: 6; Iterations: 13; Confidence: [0.7009538]
+[2025-06-13 14:39:40] Cell: 4C-CGLBJ0-26-1D; Tilt: 9.0; Azimuth: 4;  Usuarios: 6; Iterations: 14; Confidence: [0.94634344]
+[2025-06-13 14:39:41]  Melhor posicao ; Cell: 4C-CGLBJ0-26-1D; Tilt: 6.0; Azimuth: -7;  Iterations: 15; Confidence: 0.9538
+[2025-06-13 14:39:41] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:39:42] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:39:42] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:39:42] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:39:43] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:39:43] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:39:43] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:39:44] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:39:44] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:39:44] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:39:44] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:39:45] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:39:45] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:40:49] Cell: 4C-CGLBJ0-26-2D; Tilt: 1.0; Azimuth: 20;  Usuarios: 10; Iterations: 1; Confidence: [0.84134475]
+[2025-06-13 14:41:11] Cell: 4C-CGLBJ0-26-2D; Tilt: 7.1; Azimuth: 0;  Usuarios: 12; Iterations: 2; Confidence: [0.75573705]
+[2025-06-13 14:41:32] Cell: 4C-CGLBJ0-26-2D; Tilt: 2.0; Azimuth: -13;  Usuarios: 13; Iterations: 3; Confidence: [0.88995309]
+[2025-06-13 14:41:54] Cell: 4C-CGLBJ0-26-2D; Tilt: 13.0; Azimuth: -5;  Usuarios: 11; Iterations: 4; Confidence: [0.92766381]
+[2025-06-13 14:41:54]  Melhor posicao ; Cell: 4C-CGLBJ0-26-2D; Tilt: 6.0; Azimuth: 0;  Iterations: 5; Confidence: 0.9510
+[2025-06-13 14:41:54] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:41:55] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:41:55] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:41:55] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:41:56] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:41:56] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:41:56] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:41:57] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:41:57] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:41:57] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:41:58] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:41:58] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:41:58] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:43:01] Cell: 4C-CGLBJ0-26-3D; Tilt: 1.0; Azimuth: 16;  Usuarios: 24; Iterations: 1; Confidence: [0.84134475]
+[2025-06-13 14:43:26] Cell: 4C-CGLBJ0-26-3D; Tilt: 0.3; Azimuth: 19;  Usuarios: 17; Iterations: 2; Confidence: [0.68584519]
+[2025-06-13 14:43:48] Cell: 4C-CGLBJ0-26-3D; Tilt: 15.0; Azimuth: 7;  Usuarios: 20; Iterations: 3; Confidence: [0.94166777]
+[2025-06-13 14:43:48]  Melhor posicao ; Cell: 4C-CGLBJ0-26-3D; Tilt: 1.0; Azimuth: 16;  Iterations: 4; Confidence: 0.9603
+[2025-06-13 14:43:48] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:43:49] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:43:49] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:43:50] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:43:50] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:43:51] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:43:51] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:43:51] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:43:52] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:43:52] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:43:53] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:43:54] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:43:54] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:44:59] Cell: 4C-CGLBJ0-26-4D; Tilt: 3.6; Azimuth: 30;  Usuarios: 8; Iterations: 1; Confidence: [0.67346299]
+[2025-06-13 14:45:22] Cell: 4C-CGLBJ0-26-4D; Tilt: 4.7; Azimuth: 29;  Usuarios: 6; Iterations: 2; Confidence: [0.51456977]
+[2025-06-13 14:45:44] Cell: 4C-CGLBJ0-26-4D; Tilt: 3.2; Azimuth: 29;  Usuarios: 7; Iterations: 3; Confidence: [0.69998055]
+[2025-06-13 14:46:06] Cell: 4C-CGLBJ0-26-4D; Tilt: 4.1; Azimuth: 30;  Usuarios: 11; Iterations: 4; Confidence: [0.63059216]
+[2025-06-13 14:46:07]  Melhor posicao ; Cell: 4C-CGLBJ0-26-4D; Tilt: 4.1; Azimuth: 30;  Iterations: 5; Confidence: 0.9535
+[2025-06-13 14:46:07] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:46:07] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:46:08] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:46:09] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:46:09] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:46:09] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:46:10] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:46:10] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:46:11] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:46:11] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:46:12] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:46:13] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:46:13] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:47:18] Cell: 4G-CGLBJ0-18-1D; Tilt: 0.7; Azimuth: -29;  Usuarios: 8; Iterations: 1; Confidence: [0.673463]
+[2025-06-13 14:47:39] Cell: 4G-CGLBJ0-18-1D; Tilt: 0.0; Azimuth: -29;  Usuarios: 6; Iterations: 2; Confidence: [0.68170868]
+[2025-06-13 14:48:00] Cell: 4G-CGLBJ0-18-1D; Tilt: 3.0; Azimuth: 10;  Usuarios: 1; Iterations: 3; Confidence: [0.92688345]
+[2025-06-13 14:48:22] Cell: 4G-CGLBJ0-18-1D; Tilt: 12.0; Azimuth: 0;  Usuarios: 2; Iterations: 4; Confidence: [0.94057582]
+[2025-06-13 14:48:43] Cell: 4G-CGLBJ0-18-1D; Tilt: 0.1; Azimuth: -29;  Usuarios: 5; Iterations: 5; Confidence: [0.70511208]
+[2025-06-13 14:48:43]  Melhor posicao ; Cell: 4G-CGLBJ0-18-1D; Tilt: 0.0; Azimuth: -29;  Iterations: 6; Confidence: 0.9713
+[2025-06-13 14:48:44] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:48:44] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:48:44] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:48:45] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:48:45] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:48:46] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:48:46] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:48:47] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:48:48] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:48:48] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:48:49] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:48:49] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:48:50] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:49:55] Cell: 4G-CGLBJ0-18-2D; Tilt: 2.2; Azimuth: 21;  Usuarios: 11; Iterations: 1; Confidence: [0.673463]
+[2025-06-13 14:50:18] Cell: 4G-CGLBJ0-18-2D; Tilt: 0.0; Azimuth: 21;  Usuarios: 12; Iterations: 2; Confidence: [0.46101443]
+[2025-06-13 14:50:41] Cell: 4G-CGLBJ0-18-2D; Tilt: 0.0; Azimuth: 26;  Usuarios: 10; Iterations: 3; Confidence: [0.67854018]
+[2025-06-13 14:51:04] Cell: 4G-CGLBJ0-18-2D; Tilt: 0.0; Azimuth: 17;  Usuarios: 13; Iterations: 4; Confidence: [0.64387461]
+[2025-06-13 14:51:27] Cell: 4G-CGLBJ0-18-2D; Tilt: 0.0; Azimuth: 14;  Usuarios: 11; Iterations: 5; Confidence: [0.73309956]
+[2025-06-13 14:51:50] Cell: 4G-CGLBJ0-18-2D; Tilt: 15.0; Azimuth: -30;  Usuarios: 0; Iterations: 6; Confidence: [0.85626325]
+[2025-06-13 14:52:15] Cell: 4G-CGLBJ0-18-2D; Tilt: 15.0; Azimuth: 30;  Usuarios: 4; Iterations: 7; Confidence: [0.92105585]
+[2025-06-13 14:52:39] Cell: 4G-CGLBJ0-18-2D; Tilt: 0.0; Azimuth: 18;  Usuarios: 12; Iterations: 8; Confidence: [0.7783649]
+[2025-06-13 14:52:41]  Melhor posicao ; Cell: 4G-CGLBJ0-18-2D; Tilt: 0.0; Azimuth: 17;  Iterations: 9; Confidence: 0.9914
+[2025-06-13 14:52:42] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:52:42] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:52:43] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:52:43] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:52:43] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:52:44] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:52:44] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:52:44] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:52:45] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:52:45] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:52:45] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:52:46] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:52:46] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:53:49] Cell: 4G-CGLBJ0-18-3D; Tilt: 14.8; Azimuth: -30;  Usuarios: 4; Iterations: 1; Confidence: [0.673463]
+[2025-06-13 14:54:13] Cell: 4G-CGLBJ0-18-3D; Tilt: 12.5; Azimuth: -30;  Usuarios: 4; Iterations: 2; Confidence: [0.51456975]
+[2025-06-13 14:54:37] Cell: 4G-CGLBJ0-18-3D; Tilt: 13.7; Azimuth: -29;  Usuarios: 2; Iterations: 3; Confidence: [0.68017003]
+[2025-06-13 14:54:59] Cell: 4G-CGLBJ0-18-3D; Tilt: 10.8; Azimuth: -30;  Usuarios: 2; Iterations: 4; Confidence: [0.85528195]
+[2025-06-13 14:55:22] Cell: 4G-CGLBJ0-18-3D; Tilt: 13.5; Azimuth: -30;  Usuarios: 1; Iterations: 5; Confidence: [0.62801587]
+[2025-06-13 14:55:43] Cell: 4G-CGLBJ0-18-3D; Tilt: 1.0; Azimuth: 28;  Usuarios: 1; Iterations: 6; Confidence: [0.9260706]
+[2025-06-13 14:56:04] Cell: 4G-CGLBJ0-18-3D; Tilt: 4.0; Azimuth: 29;  Usuarios: 3; Iterations: 7; Confidence: [0.94379471]
+[2025-06-13 14:56:25] Cell: 4G-CGLBJ0-18-3D; Tilt: 5.0; Azimuth: -5;  Usuarios: 2; Iterations: 8; Confidence: [0.94806192]
+[2025-06-13 14:56:26]  Melhor posicao ; Cell: 4G-CGLBJ0-18-3D; Tilt: 14.0; Azimuth: -30;  Iterations: 9; Confidence: 0.9588
+[2025-06-13 14:56:26] 4G-CGLBJ0-21-1D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:56:27] 4G-CGLBJ0-21-2D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:56:27] 4G-CGLBJ0-21-3D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:56:27] 4G-CGLBJ0-21-4D tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:56:28] 4C-CGLBJ0-26-1D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:56:28] 4C-CGLBJ0-26-2D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:56:28] 4C-CGLBJ0-26-3D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:56:29] 4C-CGLBJ0-26-4D tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-13 14:56:29] 4G-CGLBJ0-18-1D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:56:29] 4G-CGLBJ0-18-2D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:56:30] 4G-CGLBJ0-18-3D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:56:30] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:56:30] 4G-CGLBJ0-18-4D tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-13 14:57:34] Cell: 4G-CGLBJ0-18-4D; Tilt: 8.0; Azimuth: -5;  Usuarios: 3; Iterations: 1; Confidence: [0.84134475]
+[2025-06-13 14:57:58] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.0; Azimuth: -10;  Usuarios: 8; Iterations: 2; Confidence: [0.68068747]
+[2025-06-13 14:58:25] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.0; Azimuth: -7;  Usuarios: 10; Iterations: 3; Confidence: [0.64252561]
+[2025-06-13 14:58:50] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.0; Azimuth: -5;  Usuarios: 12; Iterations: 4; Confidence: [0.72144578]
+[2025-06-13 14:59:15] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.0; Azimuth: -3;  Usuarios: 14; Iterations: 5; Confidence: [0.63244748]
+[2025-06-13 14:59:38] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.0; Azimuth: -1;  Usuarios: 9; Iterations: 6; Confidence: [0.62089254]
+[2025-06-13 15:00:01] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.9; Azimuth: -3;  Usuarios: 10; Iterations: 7; Confidence: [0.73721324]
+[2025-06-13 15:00:24] Cell: 4G-CGLBJ0-18-4D; Tilt: 2.4; Azimuth: -6;  Usuarios: 13; Iterations: 8; Confidence: [0.9356065]
+[2025-06-13 15:00:46] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.0; Azimuth: -3;  Usuarios: 10; Iterations: 9; Confidence: [0.6833399]
+[2025-06-13 15:01:09] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.1; Azimuth: -2;  Usuarios: 9; Iterations: 10; Confidence: [0.66934182]
+[2025-06-13 15:01:30] Cell: 4G-CGLBJ0-18-4D; Tilt: 9.0; Azimuth: 29;  Usuarios: 4; Iterations: 11; Confidence: [0.93235676]
+[2025-06-13 15:01:51] Cell: 4G-CGLBJ0-18-4D; Tilt: 2.3; Azimuth: -6;  Usuarios: 16; Iterations: 12; Confidence: [0.83480083]
+[2025-06-13 15:02:13] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.0; Azimuth: -3;  Usuarios: 12; Iterations: 13; Confidence: [0.89481119]
+[2025-06-13 15:02:34] Cell: 4G-CGLBJ0-18-4D; Tilt: 2.2; Azimuth: -7;  Usuarios: 13; Iterations: 14; Confidence: [0.6108696]
+[2025-06-13 15:02:56] Cell: 4G-CGLBJ0-18-4D; Tilt: 2.2; Azimuth: -6;  Usuarios: 15; Iterations: 15; Confidence: [0.72661097]
+[2025-06-13 15:03:18] Cell: 4G-CGLBJ0-18-4D; Tilt: 4.0; Azimuth: -9;  Usuarios: 13; Iterations: 16; Confidence: [0.94337227]
+[2025-06-13 15:03:39] Cell: 4G-CGLBJ0-18-4D; Tilt: 4.0; Azimuth: -9;  Usuarios: 13; Iterations: 17; Confidence: [0.91536663]
+[2025-06-13 15:04:00] Cell: 4G-CGLBJ0-18-4D; Tilt: 3.8; Azimuth: -9;  Usuarios: 13; Iterations: 18; Confidence: [0.8986291]
+[2025-06-13 15:04:23] Cell: 4G-CGLBJ0-18-4D; Tilt: 2.0; Azimuth: -6;  Usuarios: 12; Iterations: 19; Confidence: [0.90894586]
+[2025-06-13 15:04:44] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.0; Azimuth: -4;  Usuarios: 16; Iterations: 20; Confidence: [0.93014756]
+[2025-06-13 15:05:05] Cell: 4G-CGLBJ0-18-4D; Tilt: 3.7; Azimuth: -9;  Usuarios: 12; Iterations: 21; Confidence: [0.90267273]
+[2025-06-13 15:05:27] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.1; Azimuth: -4;  Usuarios: 13; Iterations: 22; Confidence: [0.69682944]
+[2025-06-13 15:05:49] Cell: 4G-CGLBJ0-18-4D; Tilt: 2.4; Azimuth: -7;  Usuarios: 17; Iterations: 23; Confidence: [0.82158978]
+[2025-06-13 15:06:10] Cell: 4G-CGLBJ0-18-4D; Tilt: 0.0; Azimuth: -4;  Usuarios: 14; Iterations: 24; Confidence: [0.85396177]
+[2025-06-13 15:06:32] Cell: 4G-CGLBJ0-18-4D; Tilt: 4.4; Azimuth: -9;  Usuarios: 9; Iterations: 25; Confidence: [0.93297894]
+[2025-06-13 15:06:53] Cell: 4G-CGLBJ0-18-4D; Tilt: 2.5; Azimuth: -7;  Usuarios: 11; Iterations: 26; Confidence: [0.74020748]
+[2025-06-13 15:07:15] Cell: 4G-CGLBJ0-18-4D; Tilt: 3.0; Azimuth: -8;  Usuarios: 11; Iterations: 27; Confidence: [0.94966416]
+[2025-06-13 15:07:36] Cell: 4G-CGLBJ0-18-4D; Tilt: 2.2; Azimuth: -6;  Usuarios: 19; Iterations: 28; Confidence: [0.93639545]
+[2025-06-13 15:07:36]  Melhor posicao ; Cell: 4G-CGLBJ0-18-4D; Tilt: 2.2; Azimuth: -6;  Iterations: 29; Confidence: 0.9778
+[2025-06-14 16:47:07] 4G-CLCLJ2-18-A tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-14 16:47:07] 4G-CLCLJ2-18-B tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-14 16:47:08] 4G-CLCLJ2-18-C tem menos que 150 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-14 16:47:09] 4G-CLCLJ2-21-A tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-14 16:47:10] 4G-CLCLJ2-21-B tem menos que 50 usuarios. RSignal ja no maximo = 130 dBm
+[2025-06-14 16:47:12] 4G-CLCLJ2-21-C ja tem mais que 50 usuarios. RSignal ajustado = 177 dBm
+[2025-06-14 16:47:13] 4G-CLCLJ2-26-A tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-14 16:47:14] 4G-CLCLJ2-26-B tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-14 16:47:15] 4G-CLCLJ2-26-C tem menos que 250 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-14 16:47:16] 4G-CLCLJ2-26-I tem menos que 50 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-14 16:47:17] 4G-CLCLJ2-26-J tem menos que 50 usuarios. RSignal ja no maximo = 95 dBm
+[2025-06-14 16:47:18] 4G-CLCLJ2-26-K tem menos que 50 usuarios. RSignal ja no maximo = 95 dBm
